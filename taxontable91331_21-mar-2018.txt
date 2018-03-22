@@ -1,0 +1,605 @@
+taxon_oid	Domain	Status	Study Name	Genome Name / Sample Name	Sequencing Center	IMG Genome ID 	Genome Size   * assembled	Gene Count   * assembled
+2524614563	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Eremococcus coleocola DSM 15696	DOE Joint Genome Institute (JGI)	2524614563	1869643	1898
+2506520015	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Sulfobacillus acidophilus NAL, DSM 10332"	DOE Joint Genome Institute (JGI)	2506520015	3557831	3695
+2563366580	Bacteria	Finished	Carnobacterium inhibens subsp. gilichinskyi WN1359	Carnobacterium inhibens subsp. gilichinskyi WN1359	University of Florida	2563366580	2497115	2376
+2770939513	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase IV (KMG-IV): sequencing the most valuable type-strain genomes for metagenomic binning, comparative biology and taxonomic classification"	Streptohalobacillus salinus DSM 22440	DOE Joint Genome Institute (JGI)	2770939513	2529324	2399
+2585428141	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Pilibacter termitis ATCC BAA-1030	DOE Joint Genome Institute (JGI)	2585428141	2794241	2624
+2751185706	Bacteria	Permanent Draft	Brochothrix campestris FSL F6-1037	Brochothrix campestris FSL F6-1037	Cornell University	2751185706	2342904	2657
+646564509	Bacteria	Finished	Arsenic/Bacillus/Clostridium	Bacillus selenitireducens MLS10	DOE Joint Genome Institute (JGI)	646564509	3592487	3420
+2531839001	Bacteria	Permanent Draft	Crocosphaera watsonii WH 0003	Crocosphaera watsonii WH 0003	"University of California, Santa Cruz"	2531839001	5890504	6166
+2651869842	Bacteria	Finished	Complete genome sequence of Lactobacillus acetotolerans NBRC 13120	Lactobacillus acetotolerans NBRC 13120	National Institute of Technology and Evaluation	2651869842	1704859	1757
+2524023160	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Desulfovirgula thermocuniculi DSM 16036	DOE Joint Genome Institute (JGI)	2524023160	3062341	3355
+2703719248	Bacteria	Finished	Andreesenia angusta MK-1	Andreesenia angusta MK-1 (EUAN)	Goettingen Genomics Laboratory	2703719248	2343503	2452
+2756170274	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase IV (KMG-IV): sequencing the most valuable type-strain genomes for metagenomic binning, comparative biology and taxonomic classification"	Murimonas intestini DSM 26524	DOE Joint Genome Institute (JGI)	2756170274	5754343	4947
+650377942	Bacteria	Finished	Fibrobacter succinogenes succinogenes S85	Fibrobacter succinogenes S85	J. Craig Venter Institute (JCVI)	650377942	3843004	2939
+2576861455	Bacteria	Finished	Gemmatimonadetes bacterium KBS708	Gemmatimonadetes bacterium KBS708	University of Tennessee	2576861455	7479215	6423
+2518285615	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Anaeromusa acidaminophila DSM 3853	DOE Joint Genome Institute (JGI)	2518285615	3477494	3393
+2757320871	Bacteria	Finished	Genome sequencing of Christensenella massiliensis Marseille-P2438	Christensenella massiliensis Marseille-P2438	Research Unit on Emerging Infectious and Tropical Diseases ( URMITE )	2757320871	2560186	2497
+2770939561	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase IV (KMG-IV): sequencing the most valuable type-strain genomes for metagenomic binning, comparative biology and taxonomic classification"	Dielma fastidiosa DSM 26099	DOE Joint Genome Institute (JGI)	2770939561	3580248	3545
+2619618821	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Trichococcus collinsii DSM 14526	DOE Joint Genome Institute (JGI)	2619618821	3174439	3088
+2511231101	Bacteria	Finished	Lactococcus garvieae ATCC 49156	Lactococcus garvieae sv. KG+	Kitasato University	2511231101	1950135	2024
+2509601026	Bacteria	Permanent Draft	GEBA-PCC	Nodosilinea nodulosa PCC 7104	DOE Joint Genome Institute (JGI)	2509601026	6891283	6470
+2537561904	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Alloiococcus otitis ATCC 51267	Broad Institute	2537561904	1784056	1691
+2585428066	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Anaerosphaera aminiphila DSM 21120	DOE Joint Genome Institute (JGI)	2585428066	2021907	1962
+2563366762	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Aneurinibacillus aneurinilyticus ATCC 12856	Washington University in St. Louis	2563366762	5302959	6261
+637000316	Bacteria	Finished	Methanogenic Syntropic Consortium	"Syntrophomonas wolfei Goettingen, DSM 2245B"	DOE Joint Genome Institute (JGI)	637000316	2936195	2677
+2728369642	Bacteria	Permanent Draft	Genome sequencing of Halolactibacillus sp. JCM 19043	Halolactibacillus sp. JCM 19043	RIKEN	2728369642	3160389	3707
+2757320859	Bacteria	Finished	Genome sequencing of Macrococcus canis KM45013	Macrococcus canis KM45013	University of Berne	2757320859	2363414	2525
+651324002	Bacteria	Permanent Draft	Acetonema longum DSM 6540	"Acetonema longum APO-1, DSM 6540"	California Institute of Technology	651324002	4323011	4347
+2524023159	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Atopococcus tabaci DSM 17538	DOE Joint Genome Institute (JGI)	2524023159	2269053	2432
+646564525	Bacteria	Finished	"Deferribacter desulfuricans SSM1, DSM 14783"	Deferribacter desulfuricans SSM1	National Institute of Technology and Evaluation	646564525	2542933	2425
+2687453458	Bacteria	Finished	Complete genome sequence of Leptolyngbya sp. NIES-3755	Leptolyngbya sp. NIES-3755	Toyohashi University of Technology	2687453458	6761657	6729
+2690315921	Bacteria	Permanent Draft	Roseimaritima ulvae DSM 25454 genome sequencing	Roseimaritima ulvae DSM 25454	University of Porto	2690315921	8112769	5883
+2627854193	Bacteria	Permanent Draft	Ornithinibacillus californiensis strain:DSM 16628 Genome sequencing	Ornithinibacillus californiensis DSM 16628	Zhejiang University	2627854193	3979837	4182
+2531839654	Bacteria	Permanent Draft	Nitrospina gracilis 3/211	Nitrospina gracilis 3/211	University of Vienna	2531839654	3067213	3016
+2504643012	Bacteria	Finished	GEBA-PCC	Pseudanabaena sp. PCC 7367	DOE Joint Genome Institute (JGI)	2504643012	4885680	4015
+637000236	Bacteria	Finished	Rhodopirellula genome sequencing - Max Planck Institute for Marine Microbiology	Rhodopirellula baltica SH 1	Max Planck Institute	637000236	7145576	7414
+2713896874	Bacteria	Permanent Draft	Oxobacter pfennigii DSM 3222 Genome sequencing and assembly	Oxobacter pfennigii DSM 3222	"Georg-August-University Goettingen, Genomic and Applied Microbiology, Goettingen Genomics Laboratory"	2713896874	4502030	4402
+2757320697	Bacteria	Finished	Genome sequencing of Candidatus Promineofilum breve Cfx-K	Candidatus Promineofilum breve Cfx-K	Aalborg University	2757320697	5033966	4299
+2756170264	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase IV (KMG-IV): sequencing the most valuable type-strain genomes for metagenomic binning, comparative biology and taxonomic classification"	Lachnotalea glycerini DSM 28816	DOE Joint Genome Institute (JGI)	2756170264	4864689	4429
+2630968752	Bacteria	Permanent Draft	Comparative analysis of Jeotgalibacillus strains - Universiti Teknologi Malaysia	Jeotgalibacillus alimentarius YKJ-13	"University of Technology, Malaysia"	2630968752	3364745	3564
+2582580929	Bacteria	Permanent Draft	Youngiibacter fragile 232.1	Youngiibacter fragile 232.1	University of Oklahoma	2582580929	3988233	3783
+640427111	Bacteria	Finished	Dehalococcoides sp. Strain BAV1	Dehalococcoides mccartyi BAV1	DOE Joint Genome Institute (JGI)	640427111	1341892	1443
+2588253851	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Mageeibacillus indolicus 0009-5 S7-24-11	J. Craig Venter Institute (JCVI)	2588253851	1734508	1251
+650377919	Bacteria	Finished	Human Microbiome Project (HMP) Reference Genomes	Butyrivibrio fibrisolvens 16/4	Wellcome Trust Sanger Institute	650377919	3164379	2966
+2546825536	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Atopobacter phocae ATCC BAA-285	DOE Joint Genome Institute (JGI)	2546825536	1668359	1658
+2513237300	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Anaeroglobus geminatus F0357	Washington University in St. Louis	2513237300	1794202	2198
+2706795015	Bacteria	Permanent Draft	Biogas fermentation microbial communities from biogas plants in Germany	Natranaerobiales bacterium JGI 000176CP_D07 (unscreened)	DOE Joint Genome Institute (JGI)	2706795015	275410	300
+2675903671	Bacteria	Permanent Draft	Tepidibacillus decaturensis Z9 Genome sequencing	Tepidibacillus decaturensis Z9	"University of Illinois, Urbana-Champaign"	2675903671	2963953	2993
+2756170243	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase IV (KMG-IV): sequencing the most valuable type-strain genomes for metagenomic binning, comparative biology and taxonomic classification"	Agathobaculum butyriciproducens DSM 100391	DOE Joint Genome Institute (JGI)	2756170243	2809383	2648
+2648501379	Bacteria	Permanent Draft	Robinsoniella peoriensis WT Genome sequencing	Robinsoniella peoriensis WT	Gateway Technical College	2648501379	7391415	5953
+2524614802	Bacteria	Permanent Draft	The Hungate 1000. A catalogue of reference genomes from the rumen microbiome.	Lachnospira multipara ATCC 19207	DOE Joint Genome Institute (JGI)	2524614802	2871860	2612
+637000306	Bacteria	Finished	Symbiobacterium thermophilum IAM 14863	Symbiobacterium thermophilum IAM 14863	"Kitasato University, National Institute of Infectious Diseases, Japan, Nihon University"	637000306	3566135	3518
+2721755840	Bacteria	Finished	Complete genome sequence of Streptococcus thermophilus KLDS 3.1003	Streptococcus thermophilus KLDS 3.1003	"Key Laboratory of Dairy Science, Northeast Agricultural University"	2721755840	1899956	2097
+2504756006	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Thermodesulfobium narugense Na82, DSM 14796"	DOE Joint Genome Institute (JGI)	2504756006	1898865	1910
+2721755814	Bacteria	Finished	Genome sequencing of Virgibacillus halodenitrificans PDB-F2	Virgibacillus halodenitrificans PDB-F2	East China University of Science and Technology	2721755814	3917759	3954
+2671180477	Bacteria	Permanent Draft	Numidum massiliense genome	Numidum massiliense mt3	Research Unit on Emerging Infectious and Tropical Diseases ( URMITE )	2671180477	3754846	3515
+2507262031	Bacteria	Finished	Halorespiring Firmicutes (reseq) - Exploring genomic plasticity of closely related dedicated degraders with diverging ecophysiological features and bioremediating capacity	"Desulfitobacterium dehalogenans JW/IU-DC1, ATCC 51507"	DOE Joint Genome Institute (JGI)	2507262031	4321753	4139
+2551306141	Bacteria	Permanent Draft	Scytonema hofmanni PCC 7110	Scytonema hofmanni PCC 7110	Heinrich Heine University of Dusseldorf	2551306141	12011284	10868
+2568526006	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Garciella nitratireducens DSM 15102	DOE Joint Genome Institute (JGI)	2568526006	2163332	2194
+2600255145	Bacteria	Permanent Draft	Stoquefichus massiliensis genome sequence	Erysipelotrichaceae bacterium AP9	European Bioinformatics Institute	2600255145	3433040	3568
+2663762851	Bacteria	Permanent Draft	Genome sequencing of the human gut microbiota	Clostridiales bacterium SIT13	Research Unit on Emerging Infectious and Tropical Diseases ( URMITE )	2663762851	1920334	1855
+646311956	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Streptobacillus moniliformis 9901, DSM 12112"	DOE Joint Genome Institute (JGI)	646311956	1673280	1568
+2642422556	Bacteria	Permanent Draft	"Deep subsurface shale carbon reservoir microbial communities from Ohio and West Virginia, USA"	Candidatus Frackibacter sp. WG11	DOE Joint Genome Institute (JGI)	2642422556	2760346	2779
+2599185256	Bacteria	Draft	Bacterial and archaeal communities from various locations to study Microbial Dark Matter (Phase II)	Candidatus Kryptonium thompsoni GFM JGI-4	McGill University	2599185256	2592687	2353
+2540341159	Bacteria	Finished	Enterococcus -  Broad Institute	Enterococcus casseliflavus EC20	Broad Institute	2540341159	3427276	3189
+2524614635	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Anaeroarcus burkinensis DSM 6283	DOE Joint Genome Institute (JGI)	2524614635	3340167	3222
+2515154121	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Caldibacillus debilis DSM 16016	DOE Joint Genome Institute (JGI)	2515154121	3061272	2896
+2634166305	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Peptococcus niger DSM 20475	DOE Joint Genome Institute (JGI)	2634166305	1968473	1928
+2556921039	Bacteria	Permanent Draft	Continuation of the Genomic Encyclopedia of Bacteria and Archaea pilot project (GEBA)	Desulfitibacter alkalitolerans DSM 16504	DOE Joint Genome Institute (JGI)	2556921039	4361351	4346
+2751185656	Bacteria	Permanent Draft	Firmicutes bacterium MLFW-2 Genome sequencing	Firmicutes bacterium MLFW-2	University of Georgia	2751185656	3113247	3121
+2513237306	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Oribacterium asaccharolyticum ACB7	Broad Institute	2513237306	2515191	2269
+2509601027	Bacteria	Permanent Draft	GEBA-PCC	Fortiea contorta PCC 7126	DOE Joint Genome Institute (JGI)	2509601027	5742264	5277
+2541046978	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Facklamia hominis ACS-120-V-Sch10	Broad Institute	2541046978	1918533	1824
+2756170311	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase IV (KMG-IV): sequencing the most valuable type-strain genomes for metagenomic binning, comparative biology and taxonomic classification"	Seleniivibrio woodruffii DSM 24984	DOE Joint Genome Institute (JGI)	2756170311	2906047	2763
+2513237186	Bacteria	Finished	Halobacillus halophilus DSM 2266	Halobacillus halophilus DSM 2266	Max Planck Institute	2513237186	4170008	4217
+2510436000	Bacteria	Finished	GEBA-PCC	Chamaesiphon minutus PCC 6605	DOE Joint Genome Institute (JGI)	2510436000	6761765	6427
+2619618820	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase III (KMG-III): the genomes of soil and plant-associated and newly described type strains"	Bhargavaea beijingensis CGMCC 1.6762	DOE Joint Genome Institute (JGI)	2619618820	2988557	3044
+646311965	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Veillonella parvula Te3, DSM 2008"	DOE Joint Genome Institute (JGI)	646311965	2132142	1923
+2264867254	Bacteria	Permanent Draft	GEBA-MDM	Candidatus Latescibacter anaerobius SCGC AAA252-E07 (contamination screened) (SAK_001_42)	DOE Joint Genome Institute (JGI)	2264867254	2290285	1985
+2582581271	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	"Anaerotignum propionicum X2, DSM 1682"	DOE Joint Genome Institute (JGI)	2582581271	3076693	2976
+637000329	Bacteria	Finished	Trichodesmium erythraeum IMS101	Trichodesmium erythraeum IMS101	DOE Joint Genome Institute (JGI)	637000329	7750108	5156
+2731957579	Bacteria	Permanent Draft	Globicatella sanguinis NBRC 15551	Globicatella sanguinis NBRC 15551	National Institute of Technology and Evaluation	2731957579	2310757	2111
+2770939512	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase IV (KMG-IV): sequencing the most valuable type-strain genomes for metagenomic binning, comparative biology and taxonomic classification"	Saliterribacillus persicus DSM 27696	DOE Joint Genome Institute (JGI)	2770939512	3763507	3682
+646564577	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	Syntrophothermus lipocalidus DSM 12680	DOE Joint Genome Institute (JGI)	646564577	2405559	2440
+2687453103	Bacteria	Finished	Kurthia sp 11kri321 genome sequencing and assembly	Kurthia sp. 11kri321	Los Alamos National Laboratory	2687453103	2964527	3013
+2636415895	Bacteria	Finished	Jeotgalibacillus malaysiensis Genome sequencing	Jeotgalibacillus sp. D5	"University of Technology, Malaysia"	2636415895	3516439	3705
+2627854096	Bacteria	Finished	Genome sequencing of Listeria ivanovii strains - ETH Zurich	Listeria ivanovii londoniensis WSLC 30151	ETH Zurich	2627854096	3045035	3049
+2728369708	Bacteria	Permanent Draft	Genome sequencing of Thermodesulfovibrio aggregans JCM 13213	Thermodesulfovibrio aggregans JCM 13213	University of Tokyo	2728369708	1962511	3743
+2548876996	Bacteria	Permanent Draft	Fischerella muscicola PCC 7414	Fischerella muscicola PCC 7414	Heinrich Heine University of Dusseldorf	2548876996	6902625	6146
+2551306142	Bacteria	Permanent Draft	Chlorogloeopsis fritschii PCC 6912	Chlorogloeopsis fritschii PCC 6912	Heinrich Heine University of Dusseldorf	2551306142	7751745	6905
+2602042026	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Propionispira arboris DSM 2179	DOE Joint Genome Institute (JGI)	2602042026	4261607	4076
+2508501075	Bacteria	Permanent Draft	GEBA-PCC	Kamptonema formosum PCC 6407	DOE Joint Genome Institute (JGI)	2508501075	6894060	5797
+2770939501	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase IV (KMG-IV): sequencing the most valuable type-strain genomes for metagenomic binning, comparative biology and taxonomic classification"	Paraliobacillus ryukyuensis DSM 15140	DOE Joint Genome Institute (JGI)	2770939501	3095919	3196
+2558309149	Bacteria	Permanent Draft	Mucispirillum schaedleri ASF457	Mucispirillum schaedleri ASF457	Broad Institute	2558309149	2319180	2190
+2511231141	Bacteria	Finished	Alicyclobacillus acidocaldarius acidocaldarius Tc-4-1	Alicyclobacillus acidocaldarius acidocaldarius Tc-4-1	Beijing Genomics Institute (BGI)	2511231141	3124048	3289
+640753002	Bacteria	Finished	Metal-Reducing Microorganisms	Alkaliphilus metalliredigens QYMF	DOE Joint Genome Institute (JGI)	640753002	4929566	5016
+2264867148	Bacteria	Permanent Draft	GEBA-MDM	Microgenomates bacterium SCGC AAA011-E14 (contamination screened) (DUSEL_001_182)	DOE Joint Genome Institute (JGI)	2264867148	508619	581
+2721755948	Bacteria	Permanent Draft	"Comprehensive metagenome and single cell genome sequencing from the open ocean community of North Pacfic Subtropical Gyre, Station ALOHA"	Gemmatimonadales bacterium JGI 01_H16 (contamination screened)	DOE Joint Genome Institute (JGI)	2721755948	616946	581
+2744054502	Bacteria	Permanent Draft	Ruminococcaceae bacterium 668 genome sequencing	Ruminococcaceae bacterium 668	Pirogov Russian National Research Medical University	2744054502	3942377	3834
+637000320	Bacteria	Finished	Thermosynechococcus elongatus BP-1	Thermosynechococcus elongatus BP-1	Kazusa DNA Research Institute	637000320	2593857	2555
+2596583544	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Sedimentibacter saalensis DSM 13558	DOE Joint Genome Institute (JGI)	2596583544	3834552	3632
+650716026	Bacteria	Finished	Leaf Cutter and Ant Microbe Symbiosis	"Cellulosilyticum lentocellum RHM5, DSM 5427"	DOE Joint Genome Institute (JGI)	650716026	4714237	4416
+2687453280	Bacteria	Finished	Erysipelothrix larvae LV19 Genome sequencing and assembly	Erysipelothrix larvae LV19	Korea Research Institute Bioscience and Biotechnology	2687453280	2511486	2392
+2616644817	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Alkalibacterium gilvum DSM 25751	DOE Joint Genome Institute (JGI)	2616644817	2181898	2179
+2585428150	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Dethiosulfatibacter aminovorans DSM 17477	DOE Joint Genome Institute (JGI)	2585428150	4034121	3701
+2770939568	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase IV (KMG-IV): sequencing the most valuable type-strain genomes for metagenomic binning, comparative biology and taxonomic classification"	Herbinix hemicellulosilytica DSM 29228	DOE Joint Genome Institute (JGI)	2770939568	2958342	2682
+2588253772	Bacteria	Permanent Draft	Fervidicella metallireducens AeB	Fervidicella Metallireducens AeB	Griffith University	2588253772	2892465	2889
+2757320831	Bacteria	Finished	Genome sequencing and assembly of a defined mouse intestinal bacterial community	Acutalibacter muris KB18	Max von Pettenkofer-Institute	2757320831	3802913	3883
+2600255235	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Gemella bergeriae ATCC 700627	Washington University	2600255235	1603008	1543
+643692020	Bacteria	Finished	Deinococcus deserti VCD115	Deinococcus deserti VCD115	CEA Genoscope	643692020	3855329	3511
+643348582	Bacteria	Finished	Thermomicrobium roseum DSM 5159	Thermomicrobium roseum DSM 5159	J. Craig Venter Institute (JCVI)	643348582	2920744	2901
+2503754017	Bacteria	Finished	GEBA-PCC	Gloeocapsa sp. PCC 7428	DOE Joint Genome Institute (JGI)	2503754017	5882710	5304
+2617271285	Bacteria	Permanent Draft	Thermoactinomyces daqus Genome sequencing	Thermoactinomyces daqus H-18	China Center of Industrial Culture Collection	2617271285	3441572	3741
+2634166350	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Fontibacillus panacisegetis DSM 28129	DOE Joint Genome Institute (JGI)	2634166350	5264638	4892
+2724679194	Bacteria	Permanent Draft	Anaerosporomusa subterraneum strain:RU4 Genome sequencing	Anaerosporomusa subterraneum RU4	"Rutgers, The State University of New Jersey"	2724679194	3966109	3857
+2582581273	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Atopostipes suicloacalis DSM 15692	DOE Joint Genome Institute (JGI)	2582581273	2124342	2026
+648276680	Bacteria	Permanent Draft	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Ktedonobacter racemifer SOSP1-21, DSM 44963"	DOE Joint Genome Institute (JGI)	648276680	13661586	11540
+637000118	Bacteria	Finished	Geobacillus kaustophilus HTA426	Geobacillus kaustophilus HTA426	Japan Agency for Marine-Earth Science and Technology	637000118	3592666	3714
+2718218000	Bacteria	Finished	Moorella thermoacetica DSM 103132 Genome sequencing	Moorella thermoacetica DSM 103132	Technical University of Denmark	2718218000	2976077	3130
+646311948	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	Pirellula staleyi DSM 6068	DOE Joint Genome Institute (JGI)	646311948	6196199	4825
+2634166354	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Clostridium cocleatum DSM 1551	DOE Joint Genome Institute (JGI)	2634166354	2957106	2838
+2636415708	Bacteria	Finished	Complete Genome Sequences for Biothreat Assay-Relevant Bacillus Species	Bacillus cereus E33L	Los Alamos National Laboratory	2636415708	5846781	6037
+2728369511	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Laceyella sediminis DSM 45263	DOE Joint Genome Institute (JGI)	2728369511	3392166	3513
+2690315779	Bacteria	Permanent Draft	Rubeoparvulum massiliensis genome	Bacillaceae bacterium mt6	Research Unit on Emerging Infectious and Tropical Diseases ( URMITE )	2690315779	2843796	2827
+2554235000	Bacteria	Draft	Melainabacteria	Caenarcanum bioreactoricola UASB_169 (SM2F09_MP_sspace)	U.S. Department of Energy (DOE)	2554235000	1841312	1913
+2588254267	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Papillibacter cinnamivorans DSM 12816	DOE Joint Genome Institute (JGI)	2588254267	2890610	2751
+643886103	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	"Holdemania filiformis VPI J1-31B-1, DSM 12042"	Washington University in St. Louis	643886103	3803745	4272
+2599185233	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Sporolituus thermophilus DSM 23256	DOE Joint Genome Institute (JGI)	2599185233	2861023	2977
+641522610	Bacteria	Finished	Desulforudis audaxviator MP104C	Candidatus Desulforudis audaxviator MP104C	DOE Joint Genome Institute (JGI)	641522610	2349476	2293
+2744054529	Bacteria	Permanent Draft	Genome sequencing of Leptotrichiaceae strains isolated from a guinea pig	Oceanivirga salmonicida AVG2115	Robert Koch Institute (RKI)	2744054529	1714679	1784
+2721755667	Bacteria	Finished	Vagococcus teuberi genome sequencing	Vagococcus teuberi DSM 21459	ETH Zurich	2721755667	2184285	2222
+2599185228	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Marvinbryantia formatexigens I-52	DOE Joint Genome Institute (JGI)	2599185228	4521825	4256
+2503538017	Bacteria	Permanent Draft	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Thermanaeromonas toyohensis ToBE, DSM 14490"	DOE Joint Genome Institute (JGI)	2503538017	3334024	3396
+649633056	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Ilyobacter polytropus CuHBu1, DSM 2926"	DOE Joint Genome Institute (JGI)	649633056	3132314	3042
+646564578	Bacteria	Finished	Extremophiles	Thermincola potens JR	DOE Joint Genome Institute (JGI)	646564578	3157416	3081
+2517572011	Bacteria	Permanent Draft	Planctomyces maris DSM 8797	Gimesia maris PLM2	University of Oslo	2517572011	7642810	6002
+2706794911	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase III (KMG-III): the genomes of soil and plant-associated and newly described type strains"	Anaerovirgula multivorans SCA	DOE Joint Genome Institute (JGI)	2706794911	5388996	5310
+2684623075	Bacteria	Finished	Solibacillus silvestris strain:DSM-12223 Genome sequencing and assembly	Solibacillus silvestris DSM 12223	Charles River Laboratories International	2684623075	3991226	4042
+649989993	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Pseudoramibacter alactolyticus ATCC 23263	Baylor College of Medicine	649989993	2327229	2572
+2690315950	Bacteria	Finished	Anoxybacillus amylolyticus DSM 15939 T genome sequencing and assembly	Anoxybacillus amylolyticus DSM 15939	Los Alamos National Laboratory	2690315950	3158269	3376
+2264867090	Bacteria	Permanent Draft	GEBA-MDM	EM3 bacterium JGI 0000106-B10 (contamination screened) (GBS-C_001_280)	DOE Joint Genome Institute (JGI)	2264867090	148065	138
+2681812865	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase III (KMG-III): the genomes of soil and plant-associated and newly described type strains"	Edaphobacillus lindanitolerans MNA4	DOE Joint Genome Institute (JGI)	2681812865	3052035	3061
+2524614654	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Solobacterium moorei DSM 22971	DOE Joint Genome Institute (JGI)	2524614654	2340999	2507
+2595698239	Bacteria	Permanent Draft	The Hungate 1000. A catalogue of reference genomes from the rumen microbiome.	Pseudobutyrivibrio ruminis ACV-9	DOE Joint Genome Institute (JGI)	2595698239	2764267	2591
+2684623142	Bacteria	Finished	Rummeliibacillus stabekisii PP9 genome sequencing	Rummeliibacillus stabekisii PP9	Federal University of Rio de Janeiro	2684623142	3420739	3596
+2524614531	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Anaerovorax odorimutans DSM 5092	DOE Joint Genome Institute (JGI)	2524614531	3265560	3015
+2540341113	Bacteria	Finished	Tepidanaerobacter acetatoxydans Re1	Tepidanaerobacter acetatoxydans Re1	Swedish University of Agricultural Sciences	2540341113	2761826	3106
+649989977	Bacteria	Permanent Draft	Oscillochloris trichoides DG6	Oscillochloris trichoides DG6	"Russian Academy of Science, Centre Bioengineering"	649989977	4313760	3280
+2675903523	Bacteria	Finished	Geminocystis sp. NIES 3708	Geminocystis sp. NIES-3708	Toyohashi University of Technology	2675903523	4042078	3666
+2757320732	Bacteria	Finished	Genome sequencing of Halomicronema hongdechloris C2206	Halomicronema hongdechloris C2206	Macquarie University	2757320732	5574084	5342
+2751186035	Bacteria	Permanent Draft	FAP bacteria	Candidatus Chloroploca asiatica B7-9	"Institute of Bioengineering, Research Center of Biotechnology of RAS"	2751186035	5817919	4878
+2516493028	Bacteria	Permanent Draft	Continuation of the Genomic Encyclopedia of Bacteria and Archaea pilot project (GEBA)	Allobaculum stercoricanis DSM 13633	DOE Joint Genome Institute (JGI)	2516493028	2052877	1853
+2582580727	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Anaerocolumna xylanovorans DSM 12503	DOE Joint Genome Institute (JGI)	2582580727	5420325	4735
+641228474	Bacteria	Finished	Acaryochloris marina MBIC11017	Acaryochloris marina MBIC11017	Washington University in St. Louis	641228474	8361599	8488
+2623620615	Bacteria	Permanent Draft	The Agave Microbiome: Exploring the role of microbial communities in plant adaptations to desert environments	Paenisporosarcina quisquiliarum SK 55	DOE Joint Genome Institute (JGI)	2623620615	4033490	4095
+2517093043	Bacteria	Permanent Draft	Continuation of the Genomic Encyclopedia of Bacteria and Archaea pilot project (GEBA)	Succinispira mobilis DSM 6222	DOE Joint Genome Institute (JGI)	2517093043	2085243	2002
+2751185569	Bacteria	Finished	"Anaerobic digester sludge microbial communities from Brisbane, Australia"	Caldilineales bacterium Chloro_01	The University of Queensland	2751185569	2605966	2408
+2511231116	Bacteria	Finished	Tetragenococcus halophilus NBRC 12172	Tetragenococcus halophilus NBRC 12172	National Institute of Technology and Evaluation	2511231116	2562720	2633
+2636416020	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Sinobaca qinghaiensis DSM 17008	DOE Joint Genome Institute (JGI)	2636416020	3403958	3488
+2675903648	Bacteria	Permanent Draft	Genome sequencing of two strains of Jeotgalibaca dankookensis	Jeotgalibaca dankookensis CL-AS1	Korea Polar Research Institute (KOPRI)	2675903648	2034570	2096
+2519899640	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Salinicoccus albus DSM 19776	DOE Joint Genome Institute (JGI)	2519899640	2644465	2773
+2556921093	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Clostridiisalibacter paucivorans DSM 22131	DOE Joint Genome Institute (JGI)	2556921093	3252497	3232
+2501915963	Bacteria	Permanent Draft	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Desulfonispora thiosulfatigenes GKNTAUT , DSM 11270"	DOE Joint Genome Institute (JGI)	2501915963	2412168	2489
+2617270782	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase III (KMG-III): the genomes of soil and plant-associated and newly described type strains"	Planomicrobium glaciei CGMCC 1.6846	DOE Joint Genome Institute (JGI)	2617270782	3917616	3924
+2561511183	Bacteria	Finished	Synechocystis sp. PCC 6803	Synechocystis sp. PCC 6803	Albert-Ludwigs-University Freiburg	2561511183	3949306	3610
+2751185701	Bacteria	Permanent Draft	Fusibacter sp. 3D3	Fusibacter sp. 3D3	Molecular Research LP (MR DNA)	2751185701	5105448	4706
+2265129007	Bacteria	Permanent Draft	Poribacteria Single Cells	Candidatus Poribacteria sp. WGA-4C (contamination screened) (final_clean_version)	LGC Genomics	2265129007	1629923	1603
+2547132073	Bacteria	Finished	Clostridium botulinum V891	Clostridium botulinum V891	"National Veterinary Institute (SVA), Sweden"	2547132073	3138947	3719
+2751185690	Bacteria	Permanent Draft	Genome sequencing of Clinical strains of Eisenbergiella tayi - Public Health Agency of Canada	Eisenbergiella tayi NML 110608	Public Health Agency of Canada	2751185690	7148401	6146
+2667527554	Bacteria	Finished	Lentibacillus amyloliquefaciens LAM0015	Lentibacillus amyloliquefaciens LAM0015	Biogas Institute of Ministry of Agriculture	2667527554	3858284	3996
+649633058	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Isosphaera pallida IS1B, ATCC 43644"	DOE Joint Genome Institute (JGI)	649633058	5529304	3823
+2524614856	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Tuberibacillus calidus DSM 17572	DOE Joint Genome Institute (JGI)	2524614856	3244367	3306
+642979369	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Tyzzerella nexilis DSM 1787	Washington University in St. Louis	642979369	3861016	4297
+2522572066	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	"Eggerthia catenaformis OT 569, DSM 20559"	DOE Joint Genome Institute (JGI)	2522572066	1922941	1961
+643348530	Bacteria	Finished	Coprothermobacter proteolyticus DSM 5265	Coprothermobacter proteolyticus DSM 5265	J. Craig Venter Institute (JCVI)	643348530	1424912	1535
+2518645534	Bacteria	Finished	Staphylococcus aureus 08BA02176	Staphylococcus aureus 08BA02176	University of Melbourne	2518645534	2782313	2777
+2687453613	Bacteria	Finished	Complete genome sequence of Paenibacillus riograndensis SBR5	Paenibacillus riograndensis SBR5	"Center for Biotechnology (CeBiTec), Bielefeld Univeristy"	2687453613	7919576	6865
+2751185732	Bacteria	Finished	Bacillus muralis G25-68 genome sequencing	Fictibacillus arsenicus G25-54	Zhanjiang Normal University	2751185732	4055461	4183
+2667527384	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase III (KMG-III): the genomes of soil and plant-associated and newly described type strains"	Hydrogenoanaerobacterium saccharovorans CGMCC 1.5070	DOE Joint Genome Institute (JGI)	2667527384	3178920	3039
+2509601017	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	Halobacteroides halobius DSM 5150	DOE Joint Genome Institute (JGI)	2509601017	2649255	2633
+2639762957	Bacteria	Finished	Megasphaera elsdenii 14-14	Megasphaera elsdenii 14-14	"U.S. Department of Agriculture, Agricultural Research Service, National Animal Disease Center"	2639762957	2504349	2369
+648028001	Bacteria	Finished	DOEM_782002	Nostoc azollae 0708	DOE Joint Genome Institute (JGI)	648028001	5486145	5379
+2690315902	Bacteria	Permanent Draft	Gracilibacillus massiliensis Awa-1 genome	Clostridiaceae bacterium GM1	Research Unit on Emerging Infectious and Tropical Diseases ( URMITE )	2690315902	2850586	2826
+2563367155	Bacteria	Permanent Draft	Viridibacillus arenosi FSL R5-213	Viridibacillus arenosi FSL R5-213	Beijing Genomics Institute (BGI)	2563367155	4445024	4360
+2724679802	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Melghirimyces algeriensis DSM 45474	DOE Joint Genome Institute (JGI)	2724679802	3425405	3376
+638341020	Bacteria	Permanent Draft	"Blastopirellula marina SH 106T, DSM 3645"	"Blastopirellula marina SH 106T, DSM 3645"	"Max Planck Institute, J. Craig Venter Institute (JCVI)"	638341020	6653746	6090
+2515154144	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Shimazuella kribbensis DSM 45090	DOE Joint Genome Institute (JGI)	2515154144	4187023	4333
+2513237341	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Dolosigranulum pigrum ATCC 51524	Broad Institute	2513237341	1846028	1723
+2757321005	Bacteria	Finished	Genome sequencing of Salinicoccus sp. BAB3246	Salinicoccus sp. BAB3246	Hem. North Gujarat Unviersity	2757321005	713204	1605
+2654587895	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Alteribacillus bidgolensis IBRC-M10614	DOE Joint Genome Institute (JGI)	2654587895	4643995	4708
+2558860169	Bacteria	Permanent Draft	Pasteuria nishizawae North American	Pasteuria nishizawae North American	"University of Illinois, Urbana-Champaign"	2558860169	20360	60
+2639763091	Bacteria	Finished	Complete genome sequence of Endomicrobium proavitum Rsa215	Endomicrobium proavitum Rsa215	Max Planck Institute for Terrestrial Microbiology	2639763091	1588979	1398
+2508501034	Bacteria	Permanent Draft	GEBA-PCC	Xenococcus sp. PCC 7305	DOE Joint Genome Institute (JGI)	2508501034	5929641	5420
+2675903160	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Lihuaxuella thermophila DSM 46701	DOE Joint Genome Institute (JGI)	2675903160	3808945	3840
+2718217754	Bacteria	Finished	Human oral bacterial isolates genome sequencing	Dialister pneumosintes F0677	The Forsyth Institute	2718217754	1274073	1272
+2684622530	Bacteria	Finished	"Commensal E. faecium isolate from non-hospitalised person, isolated from faeces in 1998"	Enterococcus faecium EFE10021	"Institute of Biotechnology, Univerity of Helsinki"	2684622530	2614649	2524
+2513237213	Bacteria	Finished	Selenomonas ruminantium lactilytica TAM6421	Selenomonas ruminantium lactilytica TAM6421	National Institute of Technology and Evaluation	2513237213	3631933	3608
+646564586	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Truepera radiovictrix RQ-24, DSM 17093"	DOE Joint Genome Institute (JGI)	646564586	3260398	3046
+2751185717	Bacteria	Finished	Lysinibacillus saudimassiliensis genome	Jeotgalicoccus saudimassiliensis 13MG44_air	Research Unit on Emerging Infectious and Tropical Diseases ( URMITE )	2751185717	2191063	2249
+2585428077	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Caloranaerobacter azorensis DSM 13643	DOE Joint Genome Institute (JGI)	2585428077	2461935	2617
+2718218049	Bacteria	Finished	Listeria monocytogenes genome for validating bioinformatic pipelines	Listeria monocytogenes HPB913	U.S. Food and Drug Administration	2718218049	3005352	3102
+2561511211	Bacteria	Finished	Geobacillus sp. JF8 Genome sequencing	Geobacillus sp. JF8	Shizuoka University	2561511211	3485960	3640
+2627854003	Bacteria	Permanent Draft	Pontibacillus chungwhensis BH030062 Genome sequencing	Pontibacillus chungwhensis BH030062		2627854003	3872934	3939
+643692002	Bacteria	Finished	Anaerocellum thermophilum	"Caldicellulosiruptor bescii Z-1320, DSM 6725"	DOE Joint Genome Institute (JGI)	643692002	2931662	2832
+2622736413	Bacteria	Permanent Draft	Syntrophaceticus schinkii Sp3	Syntrophaceticus schinkii Sp3	SciLifeLab	2622736413	3166921	3563
+2585428176	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Paramaledivibacter caminithermalis DSM 15212	DOE Joint Genome Institute (JGI)	2585428176	4060624	3864
+2561511231	Bacteria	Permanent Draft	The Hungate 1000. A catalogue of reference genomes from the rumen microbiome.	Mitsuokella jalaludinii DSM 13811	DOE Joint Genome Institute (JGI)	2561511231	2412558	2261
+2585428085	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Sporobacter termitidis DSM 10068	DOE Joint Genome Institute (JGI)	2585428085	4198214	3867
+2526164522	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Terrisporobacter glycolicus DSM 1288	DOE Joint Genome Institute (JGI)	2526164522	4022414	3969
+2622736585	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Dolosicoccus paucivorans DSM 15742	DOE Joint Genome Institute (JGI)	2622736585	1759599	1800
+2588253751	Bacteria	Finished	Terribacillus aidingensis strain:MP602 Genome sequencing	Terribacillus aidingensis MP602	Zhejiang Agriculture and Forestry University	2588253751	3577082	3311
+2561511092	Bacteria	Permanent Draft	The Hungate 1000. A catalogue of reference genomes from the rumen microbiome.	Kandleria vitulina DSM 20405	DOE Joint Genome Institute (JGI)	2561511092	2126709	2201
+641522622	Bacteria	Finished	"Cyanothece sp. BH68, ATCC 51142"	"Cyanothece sp. BH68, ATCC 51142"	Washington University in St. Louis	641522622	5460377	5354
+649633052	Bacteria	Finished	Halanaerobium sp. SL-HP Sequencing	Halanaerobium hydrogenoformans	DOE Joint Genome Institute (JGI)	649633052	2613117	2463
+2634166325	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase III (KMG-III): the genomes of soil and plant-associated and newly described type strains"	Natribacillus halophilus DSM 21771	DOE Joint Genome Institute (JGI)	2634166325	3302411	3522
+649633043	Bacteria	Finished	DOEM_782007	"Ethanoligenens harbinense YUAN-3T, DSM 18485"	DOE Joint Genome Institute (JGI)	649633043	3008576	2874
+2660238162	Bacteria	Finished	Clostridium thermocellum AD2	Ruminiclostridium thermocellum AD2	Oak Ridge National Laboratory	2660238162	3554854	3135
+642555134	Bacteria	Finished	Lactobacillus casei casei BL23	Lactobacillus casei casei BL23	Centre National de la Recherche Scientifique (CNRS)	642555134	3079196	3105
+2508501108	Bacteria	Finished	"Sequencing Genomes of Environmentally Important Thermophiles in Great Basin hot springs: Thermocrinis ruber, three members of the genus Thermus, and a novel Chloroflexi"	Thermus thermophilus JL-18	DOE Joint Genome Institute (JGI)	2508501108	2311212	2508
+640963040	Bacteria	Permanent Draft	Lentisphaera araneosa HTCC2155	Lentisphaera araneosa HTCC2155	J. Craig Venter Institute (JCVI)	640963040	6023180	5173
+2527291518	Bacteria	Permanent Draft	GEBA-MDM	Hydrogenedentes bacterium JGI 0000039-J10 (contamination screened) (Combined_Assembly_NKB19_1__NKB19)	DOE Joint Genome Institute (JGI)	2527291518	2874403	2439
+2558860969	Bacteria	Permanent Draft	The Hungate 1000. A catalogue of reference genomes from the rumen microbiome.	Lachnobacterium bovis AE2004	DOE Joint Genome Institute (JGI)	2558860969	2844447	2688
+2675903025	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase III (KMG-III): the genomes of soil and plant-associated and newly described type strains"	Salisediminibacterium haloalkalitolerans 10nlg	DOE Joint Genome Institute (JGI)	2675903025	2937914	2860
+2554235408	Bacteria	Finished	Meiothermus ruber DSM 1279 Genome sequencing	Meiothermus ruber DSM 1279	Pacific Biosciences	2554235408	3098881	3109
+2522572068	Bacteria	Draft	Melainabacteria	Gastranaerophilaceae MH_37 (assembly from clc and groopm)	U.S. Department of Energy (DOE)	2522572068	2197281	2402
+2770939556	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase IV (KMG-IV): sequencing the most valuable type-strain genomes for metagenomic binning, comparative biology and taxonomic classification"	Hungatella effluvii DSM 24995	DOE Joint Genome Institute (JGI)	2770939556	6863335	6003
+2654587883	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Piscibacillus halophilus DSM 21633	DOE Joint Genome Institute (JGI)	2654587883	2992995	3258
+2506520014	Bacteria	Finished	GEBA-PCC	Spirulina major PCC 6313	DOE Joint Genome Institute (JGI)	2506520014	5050153	4460
+2634166332	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Propionispora vibrioides DSM 13305	DOE Joint Genome Institute (JGI)	2634166332	4433598	4262
+2509276061	Bacteria	Finished	GEBA-PCC	Pleurocapsa sp. PCC 7327	DOE Joint Genome Institute (JGI)	2509276061	4986817	4667
+2585427640	Bacteria	Finished	"Fish pathogen genome projects - Aquacen, Brazil"	Weissella ceti WS08	Federal University of Minas Gerais	2585427640	1355853	1363
+2519103100	Bacteria	Finished	Exiguobacterium antarcticum B7	Exiguobacterium antarcticum B7	Rede Paraense de Genomica e Proteomica	2519103100	2815863	2865
+2675903018	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase III (KMG-III): the genomes of soil and plant-associated and newly described type strains"	Salipaludibacillus auranticus S9	DOE Joint Genome Institute (JGI)	2675903018	4435185	4355
+2558860255	Bacteria	Finished	Bacillus subtilis BEST7003	Bacillus subtilis BEST7003	Tokyo University of Agriculture	2558860255	4043042	4133
+2509601025	Bacteria	Finished	GEBA-PCC	Cylindrospermum stagnale PCC 7417	DOE Joint Genome Institute (JGI)	2509601025	7610589	6739
+2660238554	Bacteria	Permanent Draft	Genome sequencing of the human gut microbiota	Peptoniphilaceae bacterium SIT14	Research Unit on Emerging Infectious and Tropical Diseases ( URMITE )	2660238554	1831366	1779
+2751185761	Bacteria	Finished	Anaerococcus mediterraneensis Marseille-P2765 genome sequencing	Anaerococcus mediterraneensis Marseille-P2765	Research Unit on Emerging Infectious and Tropical Diseases ( URMITE )	2751185761	2080215	2053
+2265129012	Bacteria	Permanent Draft	GEBA-MDM	Gracilibacteria bacterium JGI 0000069-K10 (contamination screened) (CrabSpa_001_277)	DOE Joint Genome Institute (JGI)	2265129012	759477	768
+649633026	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Calditerrivibrio nitroreducens Yu37-1, DSM 19672"	DOE Joint Genome Institute (JGI)	649633026	2216552	2177
+2517093030	Bacteria	Finished	Melioribacter roseus P3M	Melioribacter roseus P3M	"Russian Academy of Science, Centre Bioengineering"	2517093030	3300414	2888
+2740892510	Bacteria	Permanent Draft	Levilinea saccharolytica KIBI-1 genome sequencing	Levilinea saccharolytica DSM 16555	California Institute of Technology	2740892510	4230078	3731
+2503538020	Bacteria	Finished	GEBA-PCC	Geitlerinema sp. PCC 7407	DOE Joint Genome Institute (JGI)	2503538020	4681111	3913
+646311901	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Acidaminococcus fermentans VR4, DSM 20731"	DOE Joint Genome Institute (JGI)	646311901	2329769	2174
+2757320777	Bacteria	Finished	Genome sequencing of Thermogutta terrifontis R1	Thermogutta terrifontis R1	"Hotzyme, University of Copenhagen"	2757320777	4810751	3655
+2513237343	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Dorea formicigenerans 4_6_53AFAA	Broad Institute	2513237343	3825700	3902
+2734481901	Bacteria	Permanent Draft	Coprobacillus cateniformis JCM 10604	Coprobacillus cateniformis JCM 10604	University of Tokyo	2734481901	3570402	4637
+2651869763	Bacteria	Finished	Clostridium sordellii JGS6364	Paeniclostridium sordellii ATCC 9714	Wellcome Trust Sanger Institute	2651869763	3394044	3432
+2510461037	Bacteria	Permanent Draft	Prochloron didemni	Prochloron didemni P1-Palau	J. Craig Venter Institute (JCVI)	2510461037	6197726	5856
+2585428191	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Anaerobranca californiensis DSM 14826	DOE Joint Genome Institute (JGI)	2585428191	2034462	2155
+640427128	Bacteria	Finished	Pelotomaculum thermopropionicum SI	Pelotomaculum thermopropionicum SI	ANRT	640427128	3025375	3018
+2675902963	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase III (KMG-III): the genomes of soil and plant-associated and newly described type strains"	Sediminibacillus albus CGMCC 1.6502	DOE Joint Genome Institute (JGI)	2675902963	3565081	3653
+2687453106	Bacteria	Finished	Genome sequence of Fischerella sp. NIES-3754	Fischerella sp. NIES-3754	Toyohashi University of Technology	2687453106	5826863	5017
+2503754019	Bacteria	Finished	GEBA-PCC	Stanieria cyanosphaera PCC 7437	DOE Joint Genome Institute (JGI)	2503754019	5544990	5041
+646311970	Bacteria	Finished	Cyanobacterium sp. UCYN-A	Candidatus Atelocyanobacterium thalassa ALOHA	"University of California, Santa Cruz"	646311970	1443806	1241
+2516493023	Bacteria	Permanent Draft	Continuation of the Genomic Encyclopedia of Bacteria and Archaea pilot project (GEBA)	Orenia marismortui DSM 5156	DOE Joint Genome Institute (JGI)	2516493023	3459766	3326
+2585428170	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Geosporobacter subterraneus DSM 17957	DOE Joint Genome Institute (JGI)	2585428170	3858006	3864
+2590828806	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Gemmiger formicilis ATCC 27749	DOE Joint Genome Institute (JGI)	2590828806	3241569	2928
+2510065008	Bacteria	Finished	GEBA-PCC	Rivularia sp. PCC 7116	DOE Joint Genome Institute (JGI)	2510065008	8728773	6946
+2645727612	Bacteria	Permanent Draft	Thermanaerothrix daxensis strain:GNS-1 Genome sequencing	Thermanaerothrix daxensis GNS-1	California Institute of Technology	2645727612	3012066	2832
+2599185225	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Natronincola ferrireducens DSM 18346	DOE Joint Genome Institute (JGI)	2599185225	3107081	3002
+2510461053	Bacteria	Permanent Draft	DOEM_782007	"Acetivibrio cellulolyticus CD2, DSM 1870 (ORNL annotation)"	DOE Joint Genome Institute (JGI)	2510461053	6156735	5163
+2619618830	Bacteria	Finished	Dehalogenimonas alkenigignens IP3-3	Dehalogenimonas alkenigignens IP3-3	"Chunlab, Inc"	2619618830	1849792	1984
+648028002	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Acetohalobium arabaticum Z-7288, DSM 5501"	DOE Joint Genome Institute (JGI)	648028002	2469596	2438
+2634166308	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Ignavigranum ruoffiae DSM 15695	DOE Joint Genome Institute (JGI)	2634166308	1958489	1941
+2737471639	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Agitococcus lubricus DSM 5822	DOE Joint Genome Institute (JGI)	2737471639	3740816	3373
+643348557	Bacteria	Finished	Halothermothrix orenii DSM 9562	Halothermothrix orenii H 168	DOE Joint Genome Institute (JGI)	643348557	2578146	2432
+2609459992	Bacteria	Permanent Draft	Gracilibacillus boraciitolerans JCM 21714	Gracilibacillus boraciitolerans JCM 21714	University of Tokyo	2609459992	3651580	4620
+2562617038	Bacteria	Finished	Eac	Peptoclostridium acidaminophilum al-2 (EAL2)	Goettingen Genomics Laboratory	2562617038	3055036	2999
+2608642105	Bacteria	Permanent Draft	The Hungate 1000. A catalogue of reference genomes from the rumen microbiome.	Sarcina sp. DSM 11001	DOE Joint Genome Institute (JGI)	2608642105	4151587	3327
+2558309063	Bacteria	Finished	Gloeobacter kilaueensis JS1	Gloeobacter kilaueensis JS1	University of Hawaii	2558309063	4724791	4562
+648028061	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Thermosediminibacter oceani JW/IW-1228P, DSM 16646"	DOE Joint Genome Institute (JGI)	648028061	2280035	2348
+2504643013	Bacteria	Finished	GEBA-PCC	Crinalium epipsammum PCC 9333	DOE Joint Genome Institute (JGI)	2504643013	5620407	5059
+2695420940	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Seinonella peptonophila DSM 44666	DOE Joint Genome Institute (JGI)	2695420940	3844441	3782
+643348543	Bacteria	Finished	Obsidian Hot Spring Microbial Community Genomics	Dictyoglomus turgidum DSM 6724	DOE Joint Genome Institute (JGI)	643348543	1855560	1865
+2654588195	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Aliicoccus persicus IBRC-M10081	DOE Joint Genome Institute (JGI)	2654588195	2061411	2106
+2728369512	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Planifilum fimeticola DSM 44946	DOE Joint Genome Institute (JGI)	2728369512	3587211	3552
+2671180540	Bacteria	Permanent Draft	Culturomics study of the human gut microbiota	Ruminococcaceae bacterium GD1	Research Unit on Emerging Infectious and Tropical Diseases ( URMITE )	2671180540	3056373	2939
+2537561888	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Peptostreptococcaceae bacterium AS15	J. Craig Venter Institute (JCVI)	2537561888	2654638	2336
+2509887032	Bacteria	Permanent Draft	Continuation of the Genomic Encyclopedia of Bacteria and Archaea pilot project (GEBA)	"Halonatronum saccharophilum Z-7986, DSM 13868"	DOE Joint Genome Institute (JGI)	2509887032	2884521	2838
+2634166323	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Isobaculum melis DSM 13760	DOE Joint Genome Institute (JGI)	2634166323	2821134	2792
+2687453481	Bacteria	Finished	Six Aerococcus type strain genome sequencing and assembly	Aerococcus sanguinicola CCUG43001	"Department of Clinical Microbiology, Slagelse Hospital, Denmark"	2687453481	2033849	1862
+649633038	Bacteria	Finished	"CSP_787571, Selenate-reducing bacterium"	"Desulfurispirillum indicum S5, DSM 22839"	DOE Joint Genome Institute (JGI)	649633038	2928377	2668
+2513237000	Bacteria	Permanent Draft	Dolichospermum circinale ACBU02	Dolichospermum circinale ACBU02	ANRT	2513237000	4734170	5208
+2599185234	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Acidaminobacter hydrogenoformans DSM 2784	DOE Joint Genome Institute (JGI)	2599185234	3615609	3376
+2585428044	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Lactonifactor longoviformis DSM 17459	DOE Joint Genome Institute (JGI)	2585428044	4839287	4487
+2651869741	Bacteria	Finished	Genome sequencing of Fusobacterium nucleatum subsp. hwasookii KCOM 1256	Fusobacterium hwasookii ChDC F174	Chosun University	2651869741	2463707	2326
+2524614676	Bacteria	Permanent Draft	Continuation of the Genomic Encyclopedia of Bacteria and Archaea pilot project (GEBA)	"Geovibrio sp. L21-Ace-BES, DSM 26904"	DOE Joint Genome Institute (JGI)	2524614676	2971658	2769
+2551306147	Bacteria	Permanent Draft	Alkalibacillus haloalkaliphilus C5	Alkalibacillus haloalkaliphilus C5	Anand Agricultural University	2551306147	2908057	3457
+2639762507	Bacteria	Permanent Draft	"Deep subsurface shale carbon reservoir microbial communities from Ohio and West Virginia, USA"	Halarsenatibacter silvermanii SLAS-1	DOE Joint Genome Institute (JGI)	2639762507	2718640	2648
+2503508009	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Mahella australiensis 50-1 BON, DSM 15567"	DOE Joint Genome Institute (JGI)	2503508009	3135972	3033
+2585427718	Bacteria	Permanent Draft	Kurthia huakuii LAM0618	Kurthia huakuii LAM0618	Chinese Academy of Agricultural Sciences	2585427718	3548922	3656
+2609459698	Bacteria	Finished	"Clostridium aceticum, DSM 1496"	"Clostridium aceticum, DSM 1496 (CACET)"	Goettingen Genomics Laboratory	2609459698	4207037	3945
+2509887024	Bacteria	Permanent Draft	GEBA-PCC	Calothrix desertica PCC 7102	DOE Joint Genome Institute (JGI)	2509887024	11416284	10426
+2600255144	Bacteria	Permanent Draft	Genome sequence of Clostridiales bacterium 9403326	Clostridiales bacterium 9403326	European Bioinformatics Institute	2600255144	1710632	1540
+2537561731	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Butyricicoccus pullicaecorum 1.2	Broad Institute	2537561731	3299517	3201
+2558860279	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Faecalitalea cylindroides ATCC 27803	Washington University in St. Louis	2558860279	1944726	2082
+2675903136	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase III (KMG-III): the genomes of soil and plant-associated and newly described type strains"	Salinibacillus kushneri CGMCC 1.3566	DOE Joint Genome Institute (JGI)	2675903136	3488694	3625
+640963014	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Pseudoflavonifractor capillosus ATCC 29799	Washington University in St. Louis	640963014	4241853	4907
+2634166902	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Romboutsia lituseburensis DSM 797	DOE Joint Genome Institute (JGI)	2634166902	3782458	3664
+2615840622	Bacteria	Permanent Draft	"Deep subsurface and oceanic microbial communities from Witwatersrand Basin, South Africa, and the Canadian and Fennoscandian shields and at the Lost City Hydrothermal Field"	Candidatus Desulfopertinax cowenii modA32	DOE Joint Genome Institute (JGI)	2615840622	1778734	1842
+2524023191	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Lacticigenium naphtae DSM 19658	DOE Joint Genome Institute (JGI)	2524023191	2136465	2017
+2588253509	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Anaerosporobacter mobilis DSM 15930	DOE Joint Genome Institute (JGI)	2588253509	5217774	4645
+649633094	Bacteria	Finished	Novel Microbial Enzymes	Ruminococcus albus 7	DOE Joint Genome Institute (JGI)	649633094	4482087	4103
+2687453372	Bacteria	Finished	Sporosarcina psychrophila DSM 6497 genome sequencing	Sporosarcina psychrophila DSM 6497	Shanghai Jiao Tong University	2687453372	4674191	4607
+2622736508	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Dendrosporobacter quercicolus DSM 1736	DOE Joint Genome Institute (JGI)	2622736508	4130502	3842
+2675903067	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase III (KMG-III): the genomes of soil and plant-associated and newly described type strains"	"Anaerobium acetethylicum GluBS11, DSM 29698"	DOE Joint Genome Institute (JGI)	2675903067	4609043	4132
+2519103101	Bacteria	Finished	Leptospirillum ferriphilum ML-04	Leptospirillum ferriphilum ML-04	Shandong University	2519103101	2406157	2525
+2562617131	Bacteria	Finished	Nodularia spumigena CCY9414 Genome sequencing	Nodularia spumigena CCY9414	University of Freiburg	2562617131	5465271	5363
+2751185836	Bacteria	Finished	Lachnoclostridium phoceense genome	Lachnoclostridium phocaeense Marseille-P3177	Research Unit on Emerging Infectious and Tropical Diseases ( URMITE )	2751185836	3500754	3402
+2731957971	Bacteria	Permanent Draft	Rubripirellula obstinata strain:LF1 = LMG 27779 = CECT 8602 Genome sequencing	Rubripirellula obstinata LF1	University of Porto	2731957971	6578773	5404
+2744054839	Bacteria	Permanent Draft	genome sequencing of Aeribacillus pallidus 8m3	Aeribacillus pallidus 8m3	"Institute of Bioengineering, Research Center of Biotechnology of RAS"	2744054839	3815829	3788
+2636416084	Bacteria	Permanent Draft	Planktothricoides sp. SR001	Planktothricoides sp. SR001 (Planktothricoides sp. SR001 non-axenic culture)	The Singapore Centre on Environmental Life Sciences Engineering	2636416084	7066705	5950
+2510065016	Bacteria	Finished	Halorespiring Firmicutes (WGS) - Exploring genomic plasticity of closely related dedicated degraders with diverging ecophysiological features and bioremediating capacity	Dehalobacter restrictus DSM 9455	DOE Joint Genome Institute (JGI)	2510065016	2943336	2908
+2556921048	Bacteria	Draft	Melainabacteria	Obscuribacter phosphatis EBPR_351 (Mle1_12)	U.S. Department of Energy (DOE)	2556921048	5494645	4654
+2548877001	Bacteria	Permanent Draft	Schlesneria paludicola DSM 18645	Schlesneria paludicola DSM 18645	Beijing Genomics Institute (BGI)	2548877001	8639329	6954
+2684622904	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Marinococcus luteus DSM 23126	DOE Joint Genome Institute (JGI)	2684622904	2908575	3026
+2599185253	Bacteria	Draft	"Hot Spring microbial communities from Great Boiling Spring, Nevada"	Candidatus Thermokryptus mobilis GFM JGI-1	DOE Joint Genome Institute (JGI)	2599185253	2423295	2319
+650377964	Bacteria	Finished	Human Microbiome Project (HMP) Reference Genomes	Roseburia intestinalis M50/1	Wellcome Trust Sanger Institute	650377964	4143550	3534
+2513237382	Bacteria	Permanent Draft	Sporolactobacillus inulinus CASD	Sporolactobacillus inulinus CASD	"Chinese Academy of Sciences, Institute of Microbiology"	2513237382	2930096	2983
+2734482011	Bacteria	Permanent Draft	Kouleothrix aurantiaca strain:COM-B Genome sequencing	Kouleothrix aurantiaca COM-B	California Institute of Technology	2734482011	6795487	7965
+2728369700	Bacteria	Permanent Draft	Genome sequencing of Calditerricola satsumensis JCM 14719	Calditerricola satsumensis JCM 14719	University of Tokyo	2728369700	2130144	3088
+2687453341	Bacteria	Finished	Planctomycetales Genome sequencing and assembly	Pirellula sp. SH-Sr6A	Netherlands Institute of Ecology	2687453341	6534136	5435
+646564511	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Kyrpidia tusciae T2, DSM 2912"	DOE Joint Genome Institute (JGI)	646564511	3384766	3401
+2627853561	Bacteria	Permanent Draft	"Cnidaria microbial communities from the Caribbean, with Black Band disease"	Roseofilum sp. BLZ4_bin2		2627853561	5230154	4759
+2728369585	Bacteria	Permanent Draft	Sphaerospermopsis aphanizomenoides Genome sequencing and assembly	Sphaerospermopsis aphanizomenoides BCCUSP55	University of Sao Paulo	2728369585	4301960	4421
+2751185558	Bacteria	Finished	Ndongobacter massiliensis genome	Ndongobacter massiliensis Marseille-P3170	Research Unit on Emerging Infectious and Tropical Diseases ( URMITE )	2751185558	1864878	1761
+2597489878	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Clostridium orbiscindens 1_3_50AFAA	Broad Institute	2597489878	4323157	4375
+2751185564	Bacteria	Finished	"Anaerobic digester sludge microbial communities from Brisbane, Australia"	Lentisphaerales bacterium Lenti_01	The University of Queensland	2751185564	2169895	2300
+650377941	Bacteria	Finished	Human Microbiome Project (HMP) Reference Genomes	Faecalibacterium prausnitzii L2-6	Wellcome Trust Sanger Institute	650377941	3321367	2820
+2648501785	Bacteria	Permanent Draft	Sellimonas intestinalis BR72	Sellimonas intestinalis BR72	Seoul National University	2648501785	3185562	3107
+2014613004	Bacteria	Draft	CSP_777133	Candidatus Endomicrobia bacterium trichonymphae	U.S. Department of Energy (DOE)	2014613004	3375854	4350
+650377958	Bacteria	Finished	Human Microbiome Project (HMP) Reference Genomes	Megamonas hypermegale ART12/1	Wellcome Trust Sanger Institute	650377958	2209938	2173
+2513237269	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Peptoanaerobacter stomatis ACC19a	Broad Institute	2513237269	2541543	2331
+2595698240	Bacteria	Permanent Draft	The Hungate 1000. A catalogue of reference genomes from the rumen microbiome.	Allisonella histaminiformans DSM 15230	DOE Joint Genome Institute (JGI)	2595698240	1700551	1602
+642555127	Bacteria	Finished	CSP_777133	Elusimicrobium minutum Pei191	DOE Joint Genome Institute (JGI)	642555127	1643562	1596
+2754412937	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase IV (KMG-IV): sequencing the most valuable type-strain genomes for metagenomic binning, comparative biology and taxonomic classification"	Psychrobacillus insolitus DSM 5	DOE Joint Genome Institute (JGI)	2754412937	3288307	3400
+637000310	Bacteria	Finished	Synechococcus	Synechococcus sp. CC9605	DOE Joint Genome Institute (JGI)	637000310	2510659	2760
+2684623072	Bacteria	Finished	Comammox genome sequencing project	Candidatus Nitrospira inopinata ENR4	"Department of Microbiology and Ecosystem Science, University of Vienna"	2684623072	3295117	3202
+2667527408	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase III (KMG-III): the genomes of soil and plant-associated and newly described type strains"	Acetanaerobacterium elongatum CGMCC 1.5012	DOE Joint Genome Institute (JGI)	2667527408	2916215	2842
+2524614854	Bacteria	Permanent Draft	Continuation of the Genomic Encyclopedia of Bacteria and Archaea pilot project (GEBA)	Psychrilyobacter atlanticus DSM 19335	DOE Joint Genome Institute (JGI)	2524614854	3539325	3414
+2651870361	Bacteria	Permanent Draft	The Hungate 1000. A catalogue of reference genomes from the rumen microbiome.	Acetitomaculum ruminis DSM 5522	DOE Joint Genome Institute (JGI)	2651870361	3082721	2710
+2509601031	Bacteria	Permanent Draft	GEBA-PCC	Leptolyngbya boryana PCC 6306	DOE Joint Genome Institute (JGI)	2509601031	7262454	6910
+643692024	Bacteria	Finished	Gemmatimonas aurantiaca T-27T	Gemmatimonas aurantiaca T-27T	National Institute of Technology and Evaluation	643692024	4636964	3987
+2671180531	Bacteria	Finished	Planctomycetales Genome sequencing and assembly	Gemmata sp. SH-PL17	Netherlands Institute of Ecology	2671180531	9045424	7815
+2675903005	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase III (KMG-III): the genomes of soil and plant-associated and newly described type strains"	Tenuibacillus multivorans CGMCC 1.3442	DOE Joint Genome Institute (JGI)	2675903005	2950395	3182
+2561511085	Bacteria	Finished	Paenibacillus alvei DSM 29	Paenibacillus alvei DSM 29 (PAV)	Goettingen Genomics Laboratory	2561511085	6933461	6711
+2671180245	Bacteria	Permanent Draft	Genome sequencing of the human gut microbiota	Ruminococcaceae bacterium AM2	Research Unit on Emerging Infectious and Tropical Diseases ( URMITE )	2671180245	3828233	3638
+2639762831	Bacteria	Permanent Draft	Soleaferrea massiliensis genome sequence	Ruminococcaceae bacterium AP7	European Bioinformatics Institute	2639762831	3098593	2472
+2600255096	Bacteria	Permanent Draft	Culturomics: study of the human digestive flora	Nosocomiicoccus massiliensis NP2	European Bioinformatics Institute	2600255096	1509734	1684
+2527291522	Bacteria	Permanent Draft	GEBA-MDM	Cloacimonetes bacterium JGI 0000014-D06 (contamination screened) (Combined_Assembly_WWE1_3__WWE1)	DOE Joint Genome Institute (JGI)	2527291522	1095584	1046
+2524614880	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Faecalicoccus pleomorphus DSM 20574	DOE Joint Genome Institute (JGI)	2524614880	1992636	2065
+2687453276	Bacteria	Finished	Complete genome sequence of Limnochorda pilosa strain HC45	Limnochorda pilosa HC45	The Institute of Low Temperature Science	2687453276	3817036	3563
+2751185579	Bacteria	Finished	"Anaerobic digester sludge microbial communities from Brisbane, Australia"	Fibrobacterales bacterium Fibro_01	The University of Queensland	2751185579	2829483	2410
+2744054429	Bacteria	Permanent Draft	"Genome sequencing of Fibrobacteres obtained from termite gut, anaerobic digester, and sheep gut rumen metagenome"	Fibrobacteria bacterium AD111 AD_111	University of Queensland	2744054429	3590825	3064
+2593339272	Bacteria	Permanent Draft	The Hungate 1000. A catalogue of reference genomes from the rumen microbiome.	Peptostreptococcus anaerobius C	DOE Joint Genome Institute (JGI)	2593339272	2116810	2089
+2627853604	Bacteria	Permanent Draft	Cyanobacteria from the cryosphere	Phormidesmis sp. BC1401	University of Bristol	2627853604	5551896	5612
+2651869645	Bacteria	Permanent Draft	Chroococcales cyanobacterium CENA595 genome sequencing	Chroococcales cyanobacterium CENA595	UNESP-FCAV	2651869645	5263957	5048
+2503538021	Bacteria	Finished	GEBA-PCC	Chroococcidiopsis thermalis PCC 7203	DOE Joint Genome Institute (JGI)	2503538021	6689401	6033
+2675903659	Bacteria	Finished	Staphylococcus agnetis Genome sequencing	Staphylococcus agnetis 908	University of Arkansas	2675903659	2503399	2522
+2503982047	Bacteria	Finished	GEBA-PCC	Anabaena cylindrica PCC 7122	DOE Joint Genome Institute (JGI)	2503982047	7063285	6258
+2522125119	Bacteria	Permanent Draft	Cylindrospermopsis raciborskii CS-506	Cylindrospermopsis raciborskii CS-506	University of New South Wales	2522125119	4183928	3320
+2548877000	Bacteria	Permanent Draft	Zavarzinella formosa DSM 19928	Zavarzinella formosa DSM 19928	Beijing Genomics Institute (BGI)	2548877000	9855884	8939
+643886110	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Catenibacterium mitsuokai DSM 15897	Washington University in St. Louis	643886110	2671313	3052
+2718218088	Bacteria	Finished	Marinilactibacillus sp. 15R Genome sequencing	Marinilactibacillus sp. 15R	Shanghai Ocean University	2718218088	2767908	2729
+649633083	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	Rubinisphaera brasiliensis DSM 5305	DOE Joint Genome Institute (JGI)	649633083	6006602	4865
+649989983	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Phascolarctobacterium succinatutens YIT 12067	Washington University in St. Louis	649989983	2122261	2202
+2574180449	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Sporacetigenium mesophilum DSM 16796	DOE Joint Genome Institute (JGI)	2574180449	2979819	3049
+2551306108	Bacteria	Finished	Brevibacillus brevis X23	Brevibacillus brevis X23	Hunan Agricultural University	2551306108	6589487	6504
+2519899603	Bacteria	Permanent Draft	Catellicoccus marimammalium M35/04/3	Catellicoccus marimammalium M35/04/3	Georgia Institute of Technology	2519899603	1285866	1248
+646564521	Bacteria	Finished	Human Microbiome Project (HMP) Reference Genomes	Clostridiales genomosp. BVAB3 UPII9-5	J. Craig Venter Institute (JCVI)	646564521	1810248	1579
+651324017	Bacteria	Permanent Draft	Caldalkalibacillus thermarum TA2.A1	Caldalkalibacillus thermarum TA2.A1	Oak Ridge National Laboratory	651324017	2895463	3067
+641380446	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Absiella dolichum DSM 3991	Washington University in St. Louis	641380446	2190453	2398
+2582581265	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Caldanaerobius fijiensis DSM 17918	DOE Joint Genome Institute (JGI)	2582581265	2760766	2789
+2600255149	Bacteria	Permanent Draft	Casaltella massiliensis genome project	Clostridiales bacterium 9400853	European Bioinformatics Institute	2600255149	2306488	2298
+641736271	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Anaerotruncus colihominis DSM 17241	Washington University in St. Louis	641736271	3718888	4506
+2511231134	Bacteria	Finished	Oscillibacter valericigenes Sjm18-20	Oscillibacter valericigenes Sjm18-20	National Institute of Technology and Evaluation	2511231134	4470622	4794
+2506783061	Bacteria	Finished	Comparative genomics of Desulfosporosinus species - Insights into the evolution and genetic blueprints of sulfate-reducing bacteria involved in wetland carbon cycling and heavy metal bioremediation	"Desulfosporosinus acidiphilus SJ4, DSM 22704"	DOE Joint Genome Institute (JGI)	2506783061	4991181	4799
+2582581325	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Fibrobacter intestinalis ATCC 43854	DOE Joint Genome Institute (JGI)	2582581325	3292368	2986
+2568526009	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Carboxydocella sporoproducens DSM 16521	DOE Joint Genome Institute (JGI)	2568526009	2578924	2779
+2639763170	Bacteria	Finished	Bacillus amyloliquefaciens L-H15 Genome sequencing	Bacillus amyloliquefaciens L-H15	China Agricultural University	2639763170	3905973	3867
+646311953	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Sphaerobacter thermophilus 4ac11, DSM 20745"	DOE Joint Genome Institute (JGI)	646311953	3993764	3585
+2687453506	Bacteria	Finished	Deinococcus radiodurans R1 genome sequencing	Deinococcus radiodurans R1	Zhejiang University	2687453506	3344765	3277
+2508501111	Bacteria	Finished	"Chloroflexi, 7 species"	Herpetosiphon aurantiacus DSM 785	DOE Joint Genome Institute (JGI)	2508501111	6785430	5654
+2519103102	Bacteria	Finished	Thermoanaerobacterium saccharolyticum JW/SL-YS485	"Thermoanaerobacterium saccharolyticum JW/SL-YS485, DSM 8691"	Oak Ridge National Laboratory	2519103102	2879349	2910
+2585427699	Bacteria	Permanent Draft	Fenollaria massiliensis 9401234 genome sequence	Fenollaria massiliensis 9401234	European Bioinformatics Institute	2585427699	1709611	1694
+2636415546	Bacteria	Permanent Draft	Neosynechococcus sphagnicola CAUP A 1101	Neosynechococcus sphagnicola CAUP A 1101	Palacky University Olomouc	2636415546	4331368	4868
+2571042347	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Soehngenia saccharolytica DSM 12858	DOE Joint Genome Institute (JGI)	2571042347	2002213	2029
+649633102	Bacteria	Finished	DOEM_782007	"Thermoanaerobacter brockii finnii Ako-1, DSM 3389"	DOE Joint Genome Institute (JGI)	649633102	2344824	2407
+2751185670	Bacteria	Finished	Novibacillus thermophilus SG-1 Genome sequencing	Novibacillus thermophilus SG-1	Guangdong Institute of Eco-Environmental and Soil Sciences	2751185670	3629225	3772
+2770939622	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase IV (KMG-IV): sequencing the most valuable type-strain genomes for metagenomic binning, comparative biology and taxonomic classification"	Anaerobacterium chartisolvens DSM 27016	DOE Joint Genome Institute (JGI)	2770939622	4927187	4344
+2588253975	Bacteria	Permanent Draft	Clostridiaceae bacterium L21-TH-D2 Genome sequencing	Clostridiaceae bacterium L21-TH-D2	Leibniz Institute	2588253975	2788198	2735
+2509276031	Bacteria	Finished	GEBA-PCC	Microcoleus sp. PCC 7113	DOE Joint Genome Institute (JGI)	2509276031	7966510	6822
+2264867094	Bacteria	Permanent Draft	GEBA-MDM	PER bacterium JGI 0000068-E11 (contamination screened) (CrabSpa_001_255)	DOE Joint Genome Institute (JGI)	2264867094	501814	538
+641522632	Bacteria	Finished	Heliobacterium modesticaldum Ice1	Heliobacterium modesticaldum Ice1	"TGen, Arizona State University"	641522632	3075407	3141
+646311952	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	Sebaldella termitidis ATCC 33386	DOE Joint Genome Institute (JGI)	646311952	4486650	4266
+2504643006	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Marinithermus hydrothermalis T1, DSM 14884"	DOE Joint Genome Institute (JGI)	2504643006	2269167	2310
+2744054583	Bacteria	Permanent Draft	Domibacillus aminovorans genome sequencing	Domibacillus aminovorans DSM 1314	"Bacterial Genomics and Evolution Laboratory, CSIR-Institute of Microbial Technology"	2744054583	3731130	3929
+2687453153	Bacteria	Finished	Peptoclostridium difficile strain:08ACD0030 Genome sequencing	Clostridioides difficile 08ACD0030	Canadian Science Centre for Human and Animal Health	2687453153	4167076	3850
+2515154092	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Desulfurispora thermophila DSM 16022	DOE Joint Genome Institute (JGI)	2515154092	2823245	2815
+2599185171	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Tepidimicrobium xylanilyticum DSM 23310	DOE Joint Genome Institute (JGI)	2599185171	3002518	3098
+2636415511	Bacteria	Finished	Sneathia amnii genome sequencing	Sneathia amnii Sn35	"Virginia Commonwealth University, Vaginal Human Microbiome Consortium"	2636415511	1330224	1324
+643886183	Bacteria	Permanent Draft	"CSP_788492, Haloalkaliphilic sulfate-, thiosulfate- and sulfur-reducing bacteria"	Dethiobacter alkaliphilus AHT1	DOE Joint Genome Institute (JGI)	643886183	3116746	3213
+2737471615	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Desmospora activa DSM 45169	DOE Joint Genome Institute (JGI)	2737471615	3793187	3792
+2579778963	Bacteria	Permanent Draft	Chrysiogenes arsenatis DSM 11915 Genome sequencing	Chrysiogenes arsenatis DSM 11915	"University of California, Davis"	2579778963	2824977	2593
+2517487003	Bacteria	Finished	Comparative genomics of purinolytic clostridia	Gottschalkia acidurici 9a	Goettingen Genomics Laboratory	2517487003	3108248	2945
+2571042001	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Pseudobacteroides cellulosolvens DSM 2933	DOE Joint Genome Institute (JGI)	2571042001	6630821	5640
+2758568009	Bacteria	Finished	Genome sequencing and assembly of a defined mouse intestinal bacterial community	Blautia coccoides YL58	Max von Pettenkofer-Institute	2758568009	5128582	4830
+2744054668	Bacteria	Permanent Draft	Phormidium willei BDU 130791 genome sequencing	Phormidium willei BDU 130791	Bharathidasan University	2744054668	4600567	4139
+2503982035	Bacteria	Finished	GEBA-PCC	Oscillatoria nigro-viridis PCC 7112	DOE Joint Genome Institute (JGI)	2503982035	8272254	7006
+2561511072	Bacteria	Permanent Draft	Genomic analysis of novel thermophilic aerobic CO-oxidizing bacteria derived from a unique biofilm community	Thermogemmatispora carboxidivorans PM5	DOE Joint Genome Institute (JGI)	2561511072	5607959	4462
+2671180221	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase III (KMG-III): the genomes of soil and plant-associated and newly described type strains"	Pelagirhabdus alkalitolerans S5	DOE Joint Genome Institute (JGI)	2671180221	2527601	2491
+2721755756	Bacteria	Finished	Genome sequencing of bacterial species from a Stable Defined Moderately Diverse Mouse Microbiota for colonizing germ-free mice with defined microbiota.	Erysipelotrichaceae bacterium I46	University of Berne	2721755756	4468295	4482
+647000218	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Bulleidia extructa W1219	J. Craig Venter Institute (JCVI)	647000218	1419583	1461
+2508501069	Bacteria	Finished	Sequencing of five diverse xylan degraders	"Thermobacillus composti KWC4, DSM 18247"	DOE Joint Genome Institute (JGI)	2508501069	4355525	4120
+2508501011	Bacteria	Finished	GEBA-PCC	Cyanobium gracile PCC 6307	DOE Joint Genome Institute (JGI)	2508501011	3342364	3439
+2523533538	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	"Bavariicoccus seileri WCC 4188, DSM 19936"	DOE Joint Genome Institute (JGI)	2523533538	2244485	2196
+2770939515	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase IV (KMG-IV): sequencing the most valuable type-strain genomes for metagenomic binning, comparative biology and taxonomic classification"	Falsibacillus pallidus DSM 25281	DOE Joint Genome Institute (JGI)	2770939515	3865655	4084
+2744054991	Bacteria	Finished	Faecalibaculum rodentium ALO17	Faecalibaculum rodentium ALO17	Korea Advanced Institute of Science and Technology	2744054991	2542486	2519
+2684623219	Bacteria	Finished	Planctomycetales Genome sequencing and assembly	Planctomyces sp. SH-PL14	Netherlands Institute of Ecology	2684623219	8442773	6604
+2585428153	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Lutispora thermophila DSM 19022	DOE Joint Genome Institute (JGI)	2585428153	3583033	3516
+2757320862	Bacteria	Finished	Genome sequencing of Negativicoccus massiliensis AT7	Negativicoccus massiliensis AT7	Research Unit on Emerging Infectious and Tropical Diseases ( URMITE )	2757320862	1360589	1360
+2713896943	Bacteria	Permanent Draft	Genome of Aphanizomenon ovalisporum	Chrysosporum ovalisporum UAM-MAO	Era7 bioinformatics	2713896943	4813075	4454
+2512875015	Bacteria	Permanent Draft	CSP_300167_797049	Saccharibacillus sacchari DSM 19268	DOE Joint Genome Institute (JGI)	2512875015	6075237	5379
+2264867162	Bacteria	Permanent Draft	GEBA-MDM	Candidatus Omnitrophus fodinae SCGC AAA011-A17 (contamination screened) (Dusel_001_263)	DOE Joint Genome Institute (JGI)	2264867162	2037078	1798
+2597489884	Bacteria	Finished	Oenococcus kitaharae DSM 17330	"Oenococcus kitaharae NRIC 0645, DSM 17330"	The Australian Wine Research Institute	2597489884	1842138	1880
+2513237274	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Johnsonella ignava ATCC 51276	Broad Institute	2513237274	2672404	2359
+2516493021	Bacteria	Permanent Draft	Continuation of the Genomic Encyclopedia of Bacteria and Archaea pilot project (GEBA)	Thermicanus aegyptius DSM 12793	DOE Joint Genome Institute (JGI)	2516493021	3657623	3667
+2617271247	Bacteria	Permanent Draft	Tolypothrix bouteillei Iicb1 Genome sequencing	Tolypothrix bouteillei Iicb1	Indian Institute of Chemical Biology	2617271247	11572263	9623
+2617270835	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Salimicrobium album DSM 20748	DOE Joint Genome Institute (JGI)	2617270835	2629725	2742
+637000080	Bacteria	Finished	Clostridium tetani Massachusetts E88	Clostridium tetani Massachusetts E88	University of Gottingen	637000080	2873333	2565
+2770939606	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase IV (KMG-IV): sequencing the most valuable type-strain genomes for metagenomic binning, comparative biology and taxonomic classification"	Pelolinea submarina DSM 23923	DOE Joint Genome Institute (JGI)	2770939606	3519570	3156
+650377990	Bacteria	Finished	Human Microbiome Project (HMP) Reference Genomes	Anaerostipes hadrus SSC/2	Wellcome Trust Sanger Institute	650377990	3114788	2826
+2264867004	Bacteria	Permanent Draft	GEBA-MDM	Parcubacteria bacterium SCGC AAA255-P19 (contamination screened) (SAK_001_138)	DOE Joint Genome Institute (JGI)	2264867004	553464	602
+637000060	Bacteria	Finished	Carboxydothermus hydrogenoformans Z-2901	Carboxydothermus hydrogenoformans Z-2901	J. Craig Venter Institute (JCVI)	637000060	2401520	2738
+2651869644	Bacteria	Permanent Draft	Ardenticatena maritima strain:110S Genome sequencing	Ardenticatena maritima 110S	California Institute of Technology	2651869644	3559695	3081
+2518645625	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Effusibacillus pohliae DSM 22757	DOE Joint Genome Institute (JGI)	2518645625	3365550	3629
+2524023186	Bacteria	Permanent Draft	Rubidibacter lacunae KORDI-51	Rubidibacter lacunae KORDI 51-2 (k51_img_annotated_130412)	Korea Institute of Ocean Science and Technology (KIOST)	2524023186	4153658	3507
+641736268	Bacteria	Permanent Draft	Gemmata obscuriglobus UQM 2246	Gemmata obscuriglobus UQM 2246	J. Craig Venter Institute (JCVI)	641736268	9161841	8086
+2561511149	Bacteria	Finished	Phycisphaera mikurensis FYK2301M01	Phycisphaera mikurensis NBRC 102666	National Institute of Technology and Evaluation	2561511149	3884382	3335
+2597490147	Bacteria	Finished	Geobacillus stearothermophilus NUB3621 Genome sequencing	Parageobacillus genomosp. 1 NUB3621	Emory University	2597490147	3622285	3739
+2651869947	Bacteria	Permanent Draft	Tissierella creatinophila KRE4	Tissierella creatinophila KRE4 (TICR)	Goettingen Genomics Laboratory	2651869947	2530461	2592
+2630968691	Bacteria	Permanent Draft	Thermoactinomycetaceae bacterium GD1	Thermoactinomycetaceae bacterium GD1	European Bioinformatics Institute	2630968691	3420927	3566
+2599185206	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Proteiniborus ethanoligenes DSM 21650	DOE Joint Genome Institute (JGI)	2599185206	3161504	3025
+647000303	Bacteria	Permanent Draft	Raphidiopsis brookii D9	Raphidiopsis brookii D9	Leibniz Institute	647000303	3186511	3057
+641736193	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Anaerofustis stercorihominis DSM 17244	Washington University in St. Louis	641736193	2284603	2381
+2509276056	Bacteria	Finished	GEBA-PCC	Dactylococcopsis salina PCC 8305	DOE Joint Genome Institute (JGI)	2509276056	3781008	3685
+2619619208	Bacteria	Permanent Draft	Assemblies from Premature infant gut Metagenome - UC Berkeley	Intestinibacter bartlettii DORA_8_9	"University of California, Berkeley"	2619619208	2176530	2099
+2721755494	Bacteria	Finished	Microcystis aeruginosa NIES-2481 Genome sequencing	Microcystis aeruginosa NIES-2481	National Institute for Environmental Studies	2721755494	4293006	4067
+2751185673	Bacteria	Finished	Genome sequencing of Planctomycetes bacterium NH11	Planctomycetes bacterium NH11	"Microorganisms, Leibniz Institute DSMZ - German Collection of Microorganisms and Cell Cultures"	2751185673	8920478	6717
+650716050	Bacteria	Finished	Melissococcus plutonius ATCC 35311	Melissococcus plutonius ATCC 35311	ANRT	650716050	2068732	1958
+649633044	Bacteria	Finished	Eubacterium limosum KIST612	Eubacterium limosum KIST612	Korean Univ	649633044	4276902	4583
+2561511080	Bacteria	Permanent Draft	The Hungate 1000. A catalogue of reference genomes from the rumen microbiome.	Proteiniclasticum ruminis DSM 24773	DOE Joint Genome Institute (JGI)	2561511080	3118301	2939
+649633101	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Thermaerobacter marianensis 7p75a, DSM 12885"	DOE Joint Genome Institute (JGI)	649633101	2844696	2435
+2770939553	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase IV (KMG-IV): sequencing the most valuable type-strain genomes for metagenomic binning, comparative biology and taxonomic classification"	Alkalibaculum bacchi DSM 22112	DOE Joint Genome Institute (JGI)	2770939553	3098941	2947
+2585428174	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Hathewaya proteolytica DSM 3090	DOE Joint Genome Institute (JGI)	2585428174	2818024	2759
+2518285549	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Allofustis seminis DSM 15817	DOE Joint Genome Institute (JGI)	2518285549	1441290	1478
+2602041616	Bacteria	Permanent Draft	Draft genome sequencing of Oscillospiraceae bacterium VE202-24	Oscillospiraceae bacterium VE202-24	University of Tokyo	2602041616	3234547	3892
+2751185561	Bacteria	Finished	Ezakiella massiliensis genome	Ezakiella massiliensis Marseille-P2951	Research Unit on Emerging Infectious and Tropical Diseases ( URMITE )	2751185561	1741785	1662
+2627853647	Bacteria	Permanent Draft	Hassallia byssoidea VB512170 Genome sequencing	Hassallia byssoidea VB512170	Indian Institute of Chemical Biology	2627853647	13096531	12364
+2513237357	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Helcococcus kunzii ATCC 51366	Broad Institute	2513237357	2083191	1920
+649633033	Bacteria	Finished	Acetoanaerobium sticklandii DSM 519	Acetoanaerobium sticklandii DSM 519	CEA Genoscope	649633033	2715461	2688
+2706794923	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase III (KMG-III): the genomes of soil and plant-associated and newly described type strains"	Anoxynatronum buryatiense Su22	DOE Joint Genome Institute (JGI)	2706794923	4163741	3719
+2718217854	Bacteria	Finished	Moorea producens PAL 15AUG08-1 Genome sequencing	Moorea producens PAL-8-15-08-1	University of San Diego	2718217854	9708656	7441
+2654588123	Bacteria	Permanent Draft	The Hungate 1000. A catalogue of reference genomes from the rumen microbiome.	Succiniclasticum ruminis DSM 9236	DOE Joint Genome Institute (JGI)	2654588123	2539887	2360
+2585428081	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Sporanaerobacter acetigenes DSM 13106	DOE Joint Genome Institute (JGI)	2585428081	2912784	2901
+2675903597	Bacteria	Permanent Draft	Hydrogenibacillus schlegelii strain:DSM 2000 Genome sequencing	Hydrogenibacillus schlegelii DSM 2000	Harvard Medical School	2675903597	2572113	2640
+2634166349	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Asaccharospora irregularis DSM 2635	DOE Joint Genome Institute (JGI)	2634166349	2622699	2610
+2767802297	Bacteria	Finished	Genome sequencing of bacterial type strains from NCTC culture collection	Streptococcus acidominimus NCTC 11291	Wellcome Trust Sanger Institute	2767802297	2330811	2486
+2751185799	Bacteria	Finished	Desulfotomaculum ferrireducens GSS09 Genome sequencing	Desulfotomaculum ferrireducens GSS09	Guangdong Institute of Eco-Environmental Science & Technology	2751185799	3240180	3255
+2264867074	Bacteria	Permanent Draft	GEBA-MDM	Fervidibacteria bacterium JGI 0000001-B9 (contamination screened) (GBS-A_001_114)	DOE Joint Genome Institute (JGI)	2264867074	811947	859
+2540341237	Bacteria	Permanent Draft	"Sequencing Genomes of Environmentally Important Thermophiles in Great Basin hot springs: Thermocrinis ruber, three members of the genus Thermus, and a novel Chloroflexi"	Kallotenue papyrolyticum JKG1	DOE Joint Genome Institute (JGI)	2540341237	4475263	4010
+2537561938	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Eggerthia catenaformis OT 569	Broad Institute	2537561938	1935589	1952
+2264867242	Bacteria	Permanent Draft	GEBA-MDM	Marinimicrobia bacterium SCGC AAA160-I06 (contamination screened)	DOE Joint Genome Institute (JGI)	2264867242	884929	1007
+2767802765	Bacteria	Finished	Hapalosiphon sp. MRB220	Hapalosiphon sp. MRB220 - Xanthomonadaceae spp. co-culture	Singapore Centre on Environmental Life Sciences Engineering (SCELSE)	2767802765	7429720	6406
+2636415956	Bacteria	Permanent Draft	Haloalkaliphilic bacterium ACht6-1 genome sequencing	Haloalkaliphilic bacterium ACht6-1	"Russian Academy of Science, Centre Bioengineering"	2636415956	4433639	3807
+2687453343	Bacteria	Finished	Human oral bacterial isolates genome sequencing	Gemella sp. W2231	The Forsyth Institute	2687453343	1769679	1683
+646311904	Bacteria	Finished	Ammonifex degensii KC4 Proposal # CSP2006-060510	Ammonifex degensii KC4	DOE Joint Genome Institute (JGI)	646311904	2157067	2239
+640753047	Bacteria	Finished	"Chloroflexi, 7 species"	"Roseiflexus castenholzii HLO8, DSM 13941"	DOE Joint Genome Institute (JGI)	640753047	5723298	4509
+637000318	Bacteria	Finished	Thermoanaerobacter tengcongensis MB4T	Caldanaerobacter subterraneus tengcongensis MB4T	"Beijing Genomics Institute (BGI), Chinese Academy of Science, Institute of Microbiology"	637000318	2689445	2719
+2751185664	Bacteria	Finished	Paludisphaera borealis PX4 Genome sequencing	Paludisphaera borealis PX4	Research Center of Biotechnology of RAS	2751185664	7651896	5944
+2622736579	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Desemzia incerta DSM 20581	DOE Joint Genome Institute (JGI)	2622736579	2330788	2253
+2634166487	Bacteria	Finished	Complete Genome Sequences for Biothreat Assay-Relevant Bacillus Species	Bacillus anthracis 2002013094	Los Alamos National Laboratory	2634166487	5601083	5969
+649633077	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Oceanithermus profundus 506, DSM 14977"	DOE Joint Genome Institute (JGI)	649633077	2439291	2445
+643348527	Bacteria	Finished	"Chloroflexi, 7 species"	Chloroflexus aggregans DSM 9485	DOE Joint Genome Institute (JGI)	643348527	4684931	3895
+2757320830	Bacteria	Finished	Genome sequencing of Ruminococcaceae bacterium CPB6	Ruminococcaceae bacterium CPB6	"Chengdu Institute of Biology, Chinese Academy of Sciences"	2757320830	2069994	2039
+2528768179	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Paucisalibacillus globulus DSM 18846	DOE Joint Genome Institute (JGI)	2528768179	4240041	4281
+2512047040	Bacteria	Finished	"Acetobacterium woodii WB1, DSM 1030"	"Acetobacterium woodii WB1, DSM 1030"	University of Gottingen	2512047040	4044777	3548
+646564527	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Denitrovibrio acetiphilus N2460, DSM 12809"	DOE Joint Genome Institute (JGI)	646564527	3222077	3067
+2617270707	Bacteria	Permanent Draft	"Fountain water microbial communities from Alpena County Library, Michigan, USA"	Alpena fountain Bin 5	University of Michigan	2617270707	138304	144
+2718217921	Bacteria	Finished	Gloeomargarita lithophora Genome sequencing	Candidatus Gloeomargarita lithophora D10	University of Paris-Sud	2718217921	3049282	3134
+2636415832	Bacteria	Finished	Taxonomy and phylogenomics of Bacillus-like bacteria	Lysinibacillus macroides DSM 54	Fujian Academy of Agricultural Sciences	2636415832	4866035	4857
+2675903022	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase III (KMG-III): the genomes of soil and plant-associated and newly described type strains"	Salibacterium halotolerans S7	DOE Joint Genome Institute (JGI)	2675903022	3614063	3762
+2617271274	Bacteria	Permanent Draft	Anaerosalibacter massiliensis genome	Anaerosalibacter massiliensis ND1	European Bioinformatics Institute	2617271274	3189543	3306
+2585427972	Bacteria	Permanent Draft	Tumebacillus flagellatus Genome sequencing	Tumebacillus flagellatus GST4	National Engineering Research Center for non-food Biorefinery	2585427972	4874793	4495
+651324021	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Centipeda periodontii DSM 2778	Baylor College of Medicine	651324021	2716458	2698
+2630968384	Bacteria	Permanent Draft	Taxonomy and phylogenomics of Bacillus-like bacteria	Anaerobacillus macyae DSM 16346	Fujian Academy of Agricultural Sciences	2630968384	4256776	4341
+2706794928	Bacteria	Permanent Draft	Biogas fermentation microbial communities from biogas plants in Germany	Erysipelotrichales bacterium JGI 000170CP_H05 (contamination screened)	DOE Joint Genome Institute (JGI)	2706794928	84636	103
+2751185565	Bacteria	Finished	"Anaerobic digester sludge microbial communities from Brisbane, Australia"	Victivallales bacterium Lenti_02	The University of Queensland	2751185565	4951698	4153
+2509276045	Bacteria	Permanent Draft	GEBA-PCC	Prochlorothrix hollandica PCC 9006	DOE Joint Genome Institute (JGI)	2509276045	5646343	4823
+2588253519	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Thermosporothrix hazakensis ATCC BAA-1881	DOE Joint Genome Institute (JGI)	2588253519	7282662	6465
+2519899721	Bacteria	Permanent Draft	"Thermobrachium celere JW/YL-NZ35, DSM 8682"	"Thermobrachium celere JW/YL-NZ35, DSM 8682"	Tampere University of Technology	2519899721	2775618	2993
+644736384	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Leptotrichia buccalis C-1013-b, DSM 1135"	DOE Joint Genome Institute (JGI)	644736384	2465610	2367
+2690315814	Bacteria	Permanent Draft	Kallipyga gabonensis genome	Kallipyga gabonensis GM4	Research Unit on Emerging Infectious and Tropical Diseases ( URMITE )	2690315814	1621211	1530
+2751185667	Bacteria	Permanent Draft	Desertifilum sp. IPPAS B-1220 Genome sequencing	Desertifilum sp. IPPAS B-1220	"Institute of Plant Physiology, Russian Academy of Sciences"	2751185667	6086384	5185
+2651870112	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Tindallia magadiensis Z-7934	DOE Joint Genome Institute (JGI)	2651870112	3083807	2851
+2636415721	Bacteria	Finished	Parvimonas micra strain:KCOM 1535 (=ChDC B708) Genome sequencing	Parvimonas micra KCOM 1535 (=ChDC B708)	Chosun University	2636415721	1627009	1547
+2521172702	Bacteria	Finished	Thermacetogenium phaeum DSM 12270	"Thermacetogenium phaeum PB, DSM 12270"	Goettingen Genomics Laboratory	2521172702	2939057	2883
+2517093042	Bacteria	Permanent Draft	GEBA-PCC	Mastigocladopsis repens PCC 10914	DOE Joint Genome Institute (JGI)	2517093042	6465655	5921
+2510461066	Bacteria	Permanent Draft	"Chloroflexi, 7 species"	Candidatus Chlorothrix halophila	DOE Joint Genome Institute (JGI)	2510461066	7984366	6788
+2582581261	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Schwartzia succinivorans DSM 10502	DOE Joint Genome Institute (JGI)	2582581261	2659575	2511
+2767802767	Bacteria	Finished	Paraclostridium benzoelyticum JC272	Paraclostridium benzoelyticum JC272	University of Hyderabad	2767802767	3523632	3620
+2513237311	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Subdoligranulum sp. 4_3_54A2FAA	Broad Institute	2513237311	4205237	4163
+2728368982	Bacteria	Permanent Draft	Catabacter hongkongensis strain:ABBA15k Genome sequencing	Catabacter hongkongensis ABBA15k	Uppsala University	2728368982	2797114	2683
+2675903691	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Planctomicrobium piriforme DSM 26348	DOE Joint Genome Institute (JGI)	2675903691	6317004	5121
+2634166901	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Pisciglobus halotolerans DSM 27630	DOE Joint Genome Institute (JGI)	2634166901	2437433	2345
+2585428193	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Caminicella sporogenes DSM 14501	DOE Joint Genome Institute (JGI)	2585428193	2473921	2441
+650377906	Bacteria	Finished	Arthrospira platensis NIES-39	Arthrospira platensis NIES-39	National Institute of Technology and Evaluation	650377906	6788435	6676
+2671180506	Bacteria	Permanent Draft	Genome sequencing of the human gut microbiota	Gorillibacterium sp. SN4	Research Unit on Emerging Infectious and Tropical Diseases ( URMITE )	2671180506	5263339	4817
+2540341085	Bacteria	Finished	Caldilinea aerophila STL-6-O1	"Caldilinea aerophila STL-6-O1, DSM 14535"	National Institute of Technology and Evaluation	2540341085	5144873	4173
+2523533519	Bacteria	Draft	Melainabacteria	Gastranaerophilus phascolarctosicola MH_37 (Zagget bin 221)	U.S. Department of Energy (DOE)	2523533519	1818269	1838
+637000201	Bacteria	Finished	Oceanobacillus iheyensis HTE831	Oceanobacillus iheyensis HTE831	Japan Agency for Marine-Earth Science and Technology	637000201	3630528	3664
+2675903228	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Thermoflavimicrobium dichotomicum DSM 44778	DOE Joint Genome Institute (JGI)	2675903228	3852792	3734
+2667527550	Bacteria	Finished	Intestinimonas butyriciproducens AF211	Intestinimonas butyriciproducens AF211	University of Helsinki	2667527550	3376475	3241
+2751185693	Bacteria	Permanent Draft	Peptostreptococcaceae bacterium CCRI-22567 Genome sequencing	Peptostreptococcaceae bacterium CCRI-22567	CHU de Quebec - Universite Laval	2751185693	2384460	2392
+2531839184	Bacteria	Permanent Draft	Planctomyces sp PLM2 from Mohns Ridge Arctic Ocean	Planctomycetaceae bacterium KSU-1	Kyushu University	2531839184	4087350	3653
+645951817	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Granulicatella adiacens ATCC 49175	Baylor College of Medicine	645951817	1923088	1949
+2770939551	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase IV (KMG-IV): sequencing the most valuable type-strain genomes for metagenomic binning, comparative biology and taxonomic classification"	Pseudogracilibacillus auburnensis DSM 28556	DOE Joint Genome Institute (JGI)	2770939551	4779970	4549
+2634166494	Bacteria	Permanent Draft	"Single-cell derived draft genomes of the deep-branching uncultivated MTB from Lake Chiemsee, Bavaria"	Candidatus Magnetoovum chiemensis CS-04	Max Planck Institute for Marine Microbiology	2634166494	3816933	4350
+2728369650	Bacteria	Permanent Draft	Genome sequencing of Thalassobacillus sp. JCM19033	Thalassobacillus sp. JCM 19033	University of Tokyo	2728369650	4046150	5685
+2585428065	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Tepidibacter thalassicus DSM 15285	DOE Joint Genome Institute (JGI)	2585428065	2234370	2322
+2574179702	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Propionigenium maris DSM 9537	DOE Joint Genome Institute (JGI)	2574179702	4109009	4052
+2562617177	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Abiotrophia defectiva ATCC 49176	Washington University in St. Louis	2562617177	2041839	2009
+2558860283	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Mogibacterium timidum ATCC 33093	J. Craig Venter Institute (JCVI)	2558860283	1806210	1705
+2565956826	Bacteria	Permanent Draft	Chitinivibrio alkaliphilus ACht1 Genome sequencing	Chitinivibrio alkaliphilus ACht1	"Russian Academy of Science, Centre Bioengineering"	2565956826	2591328	2346
+646564559	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	Planctopirus limnophila DSM 3776	DOE Joint Genome Institute (JGI)	646564559	5460085	4372
+2698537022	Bacteria	Permanent Draft	Development of a pipeline for high-throughput recovery of near-complete and complete microbial genomes from complex metagenomic datasets	Ignavibacteriaceae bacterium JGI CrystG Apr3-1-J4 (contamination screened)	DOE Joint Genome Institute (JGI)	2698537022	202476	191
+643886070	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Shuttleworthia satelles DSM 14600	Washington University in St. Louis	643886070	2168977	2321
+2509601004	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Singulisphaera acidiphila MOB10, DSM 18658"	DOE Joint Genome Institute (JGI)	2509601004	9755686	7683
+2651870320	Bacteria	Permanent Draft	The Hungate 1000. A catalogue of reference genomes from the rumen microbiome.	Faecalicatena contorta NLAE-zl-C134	DOE Joint Genome Institute (JGI)	2651870320	4710577	4416
+2524614863	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Maledivibacter halophilus ATCC 49637	DOE Joint Genome Institute (JGI)	2524614863	5802910	5511
+2654588030	Bacteria	Finished	Clostridium carboxidivorans P7 genome sequencing	Clostridium carboxidivorans P7	Shanghai Institutes for Biological Sciences (SIBS) of Chinese Academy of Sciences (CAS)	2654588030	5752782	5316
+2524023184	Bacteria	Permanent Draft	Caloramator australicus RC3	Caloramator australicus RC3	Griffith University	2524023184	2638447	2803
+2627853837	Bacteria	Permanent Draft	Quasibacillus thermotolerans MTCC 8252 Genome sequencing	Quasibacillus thermotolerans MTCC 8252	Institute of Microbial Technology	2627853837	3967261	4241
+2693429901	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Caldicoprobacter faecalis DSM 20678	DOE Joint Genome Institute (JGI)	2693429901	2579145	2493
+2639762806	Bacteria	Permanent Draft	"Single-cell derived draft genomes of the deep-branching uncultivated MTB from Lake Chiemsee, Bavaria"	Candidatus Magnetobacterium bavaricum TM-1	Max Planck Institute for Marine Microbiology	2639762806	6308864	7676
+2503538028	Bacteria	Finished	GEBA-PCC	Halothece sp. PCC 7418	DOE Joint Genome Institute (JGI)	2503538028	4179170	3920
+2585428171	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Hespellia stercorisuis DSM 15480	DOE Joint Genome Institute (JGI)	2585428171	4402942	4183
+2537561561	Bacteria	Finished	Pelosinus fermentans JBW45	Pelosinus fermentans JBW45	Oak Ridge National Laboratory	2537561561	5277725	4832
+2503283023	Bacteria	Finished	GEBA-PCC	Cyanobacterium stanieri PCC 7202	DOE Joint Genome Institute (JGI)	2503283023	3163381	2941
+2627853929	Bacteria	Permanent Draft	Aphanocapsa montana BDHKU210001 Genome sequencing	Aphanocapsa montana BDHKU210001	Indian Institute of Chemical Biology	2627853929	11500044	9221
+2524023219	Bacteria	Finished	Amphibacillus xylanus NBRC 15112	Amphibacillus xylanus NBRC 15112	National Institute of Technology and Evaluation	2524023219	2569486	2488
+2519899621	Bacteria	Permanent Draft	Nitrolancea hollandica Lb	Nitrolancea hollandica Lb	CEA Genoscope	2519899621	3888104	4034
+2599185231	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Caldanaerovirga acetigignens DSM 18802	DOE Joint Genome Institute (JGI)	2599185231	2264710	2368
+2681813512	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Kroppenstedtia eburnea DSM 45196	DOE Joint Genome Institute (JGI)	2681813512	3532052	3558
+2523533562	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Proteocatella sphenisci DSM 23131	DOE Joint Genome Institute (JGI)	2523533562	2413076	2351
+650377925	Bacteria	Finished	Human Microbiome Project (HMP) Reference Genomes	Coprococcus catus GD/7	Wellcome Trust Sanger Institute	650377925	3522704	3040
+641522627	Bacteria	Finished	Human Microbiome Project (HMP) Reference Genomes	Finegoldia magna ATCC 29328	Wakayama Medical University	641522627	1986740	1873
+2654587921	Bacteria	Finished	Sporomusa sphaeroides E	Sporomusa sphaeroides E (DSM2875)	Goettingen Genomics Laboratory	2654587921	4971384	4703
+642979360	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Holdemanella biformis DSM 3989	Washington University in St. Louis	642979360	2415920	2577
+2585428148	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Cetobacterium ceti ATCC 700028	DOE Joint Genome Institute (JGI)	2585428148	2580907	2646
+2503982046	Bacteria	Permanent Draft	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Peptoniphilus asaccharolyticus UW 228, DSM 20463"	DOE Joint Genome Institute (JGI)	2503982046	2232586	2268
+2751185789	Bacteria	Finished	Planococcus faecalis AJ003 Genome sequencing	Planococcus faecalis AJ003	Ajou University	2751185789	3495892	3493
+2757320359	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase IV (KMG-IV): sequencing the most valuable type-strain genomes for metagenomic binning, comparative biology and taxonomic classification"	Brockia lithotrophica DSM 22653	DOE Joint Genome Institute (JGI)	2757320359	1879126	1796
+2718217693	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase III (KMG-III): the genomes of soil and plant-associated and newly described type strains"	Salsuginibacillus halophilus CGMCC 1.07653	DOE Joint Genome Institute (JGI)	2718217693	3019496	3025
+2770939587	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase III (KMG-III): the genomes of soil and plant-associated and newly described type strains"	Cohnella phaseoli CECT 7287	DOE Joint Genome Institute (JGI)	2770939587	9401845	7700
+2675903475	Bacteria	Permanent Draft	Planctomycetaceae bacterium FC18 Genome sequencing	Planctomycetaceae bacterium FC18	University of Porto	2675903475	6524122	5168
+2551306536	Bacteria	Permanent Draft	Candidatus Kuenenia stuttgartiensis enrichment culture clone RU1	Candidatus Kuenenia stuttgartiensis RU1	Radboud University Nijmegen	2551306536	3764664	4591
+2505679008	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Flexistipes sinusarabici MAS10, DSM 4947"	DOE Joint Genome Institute (JGI)	2505679008	2526590	2399
+647533184	Bacteria	Permanent Draft	Coleofasciculus chthonoplastes PCC 7420	Coleofasciculus chthonoplastes PCC 7420	"Institut Pasteur, J. Craig Venter Institute (JCVI)"	647533184	8679041	8359
+2687453348	Bacteria	Finished	Turicibacter sp. H121 genome sequencing	Turicibacter sp. H121	Baylor College of Medicine	2687453348	2622031	2579
+2606217559	Bacteria	Finished	Prochlorococcus sp. MIT9215	Prochlorococcus marinus MIT9215	DOE Joint Genome Institute (JGI)	2606217559	1738790	1999
+2597490276	Bacteria	Permanent Draft	Myxosarcina sp. strain GI1 Genome sequencing	Myxosarcina sp. GI1	"National Cheng Kung University, Yourgene Bioscience, Taiwan"	2597490276	7069859	6524
+2706794897	Bacteria	Permanent Draft	Microbial and viral regulation of community carbon cycling across diverse low-oxygen zones	Candidatus Scalindua bacterium JGI ETNP_125m_186_E01 (contamination screened)	DOE Joint Genome Institute (JGI)	2706794897	303618	313
+2511231077	Bacteria	Finished	Human Microbiome Project (HMP) Reference Genomes	Filifactor alocis ATCC 35896	Broad Institute	2511231077	1931012	1700
+2585427596	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Parasporobacterium paucivorans DSM 15970	DOE Joint Genome Institute (JGI)	2585427596	2443757	2445
+2524023153	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Halalkalibacillus halophilus DSM 18494	DOE Joint Genome Institute (JGI)	2524023153	2709523	2867
+637000307	Bacteria	Finished	Synechococcus elongatus PCC 6301	Synechococcus elongatus PCC 6301	Nagoya University	637000307	2696255	2585
+2556921664	Bacteria	Permanent Draft	The Hungate 1000. A catalogue of reference genomes from the rumen microbiome.	Anaerovibrio lipolyticus LB2005	DOE Joint Genome Institute (JGI)	2556921664	2682728	2539
+2600255343	Bacteria	Permanent Draft	"Kryptonia, defining a new bacterial candidate phylum from geothermal springs"	Candidatus Kryptonium thompsoni JGI-10 (unscreened)	DOE Joint Genome Institute (JGI)	2600255343	1566745	1560
+2140918011	Bacteria	Permanent Draft	Sequencing the genomes of two abundant thermophiles in Great Basin hot springs: Thermocrinis jamiesonii and novel Chloroflexi Thermoflexus hugenholtzii	Thermoflexus hugenholtzii JAD2 (Draft Genome)	DOE Joint Genome Institute (JGI)	2140918011	3216964	2997
+2599185255	Bacteria	Permanent Draft	"Hot springs sediment microbial communities from Tengchong, China, analyzing PIRE metagenomes"	Candidatus Kryptobacter tengchongensis GFM JGI-3	Stanford University	2599185255	2680691	2405
+2671180904	Bacteria	Permanent Draft	Genome sequencing of bacterial strains from the gut of a kwashiokor subject	Bacillaceae bacterium mt8	Research Unit on Emerging Infectious and Tropical Diseases ( URMITE )	2671180904	2847590	2934
+642555142	Bacteria	Finished	DD_777813	Natranaerobius thermophilus JW/NM-WN-LF	DOE Joint Genome Institute (JGI)	642555142	3191453	2970
+649633098	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Syntrophobotulus glycolicus FlGlyR, DSM 8271"	DOE Joint Genome Institute (JGI)	649633098	3406739	3439
+2585427799	Bacteria	Permanent Draft	Aphanizomenon flos-aquae NIES-81	Aphanizomenon flos-aquae NIES-81	Northern Illinois University	2585427799	5682502	5348
+2513237338	Bacteria	Permanent Draft	Human Microbiome Project (HMP) Reference Genomes	Lachnospiraceae bacterium ACC2	Broad Institute	2513237338	2308581	2141
+2505679032	Bacteria	Finished	GEBA-PCC	Calothrix sp. PCC 7507	DOE Joint Genome Institute (JGI)	2505679032	7023215	6250
+2675903148	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Marininema halotolerans DSM 45789	DOE Joint Genome Institute (JGI)	2675903148	3568596	3514
+2634166459	Bacteria	Finished	Genome sequencing of pathogen strains of Streptococcus agalactiae - Guangxi Academy of Fishery Sciences	Streptococcus agalactiae HN016	Chinese Academy of Fishery Sciences	2634166459	2064722	2120
+2582581275	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase I: the one thousand microbial genomes (KMG-I) project"	Alkalibacter saccharofermentans DSM 14828	DOE Joint Genome Institute (JGI)	2582581275	2331365	2253
+2582581323	Bacteria	Permanent Draft	"Genomic Encyclopedia of Archaeal and Bacterial Type Strains, Phase II (KMG-II): from individual species to whole genera"	Selenihalanaerobacter shriftii ATCC BAA-73	DOE Joint Genome Institute (JGI)	2582581323	2840584	2847
+2756170241	Bacteria	Permanent Draft	"Genomic Encyclopedia of Type Strains, Phase IV (KMG-IV): sequencing the most valuable type-strain genomes for metagenomic binning, comparative biology and taxonomic classification"	Victivallis vadensis DSM 14823	DOE Joint Genome Institute (JGI)	2756170241	5199916	4127
+2622736407	Bacteria	Permanent Draft	The genome sequence of the heterocyst-forming cyanobacterial symbiont of the diatom Rhizosolenia	Richelia intracellularis RC01	"University of California, Santa Cruz"	2622736407	2997884	4043
+2706795022	Bacteria	Permanent Draft	Biogas fermentation microbial communities from biogas plants in Germany	Fastidiosipila bacterium JGI 000176CP_A02 (unscreened)	DOE Joint Genome Institute (JGI)	2706795022	111607	133
+2648501874	Bacteria	Finished	Nostoc piscinale CENA21	Nostoc piscinale CENA21	University of San Diego	2648501874	7094556	6779
+2517287003	Bacteria	Permanent Draft	Epulopiscium sp. N.t. morphotype B	Epulopiscium sp. N.t. morphotype B	J. Craig Venter Institute (JCVI)	2517287003	3856525	3127
+2684623273	Bacteria	Permanent Draft	"Avena fatua rhizosphere microbial communities from Hopland, California, USA"	Gemm-3 bacterium JGI 020 (contamination screened)	DOE Joint Genome Institute (JGI)	2684623273	2163825	1952
+2706794884	Bacteria	Permanent Draft	Candidatus Brocadia sapporoensis 40	Candidatus Brocadia sapporoensis 40 (Draft1)	King Abdullah University of Science and Technology (KAUST)	2706794884	2929740	2624
+2681813039	Bacteria	Permanent Draft	HMP reference genome	Lachnoanaerobaculum saburreum DNF00896	The Genome Institute at Washington University	2681813039	2887649	2807
+643348508	Bacteria	Finished	"Anoxybacillus flavithermus WK1, DSM 2641"	"Anoxybacillus flavithermus WK1, DSM 2641"	University of Hawaii	643348508	2846746	2933
+649633005	Bacteria	Finished	Anaerolinea thermophila UNI-1	Anaerolinea thermophila UNI-1	National Institute of Technology and Evaluation	649633005	3532378	3224
+2751185704	Bacteria	Finished	Murdochiella sp. Marseille-P2341 genome sequencing	Murdochiella vaginalis Marseille-P2341	Research Unit on Emerging Infectious and Tropical Diseases ( URMITE )	2751185704	1671491	1507
+646311962	Bacteria	Finished	A Genomic Encyclopedia of Bacteria and Archaea (GEBA)	"Thermobaculum terrenum YNP1, ATCC BAA-798"	DOE Joint Genome Institute (JGI)	646311962	3101581	2933
+2503242000	Bacteria	Permanent Draft	Planktothrix agardhii NIVA-CYA 126 aeruginoside biosynthesis gene cluster	Planktothrix agardhii NIVA-CYA 126/8	University of Innsbruck	2503242000	5003944	4325
+2513237218	Bacteria	Finished	Ignavibacterium album Mat9-16	"Ignavibacterium album Mat9-16, JCM 16511"	Pennsylvania State University	2513237218	3658997	3243
